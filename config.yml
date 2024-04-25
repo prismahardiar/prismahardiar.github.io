@@ -104,7 +104,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Prismahardi Aji Riyantoko"
-      icon: /favicon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
