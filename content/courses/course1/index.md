@@ -3,15 +3,15 @@ title: "Course Title 1"
 date: 2022-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Name"
-description: "This graduate course presents things." 
-summary: "This graduate course presents various methods and results." 
+description: "This undergraduate course presents things." 
+summary: "This undergraduate course presents various methods and results." 
 cover:
     image: "course1.png"
     alt: "Figure caption"
     relative: false
 editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-    Text: "YouTube playlist"
+    URL: ""
+    Text: "YouTube Playlist"
 showToc: true
 disableAnchoredHeadings: false
 

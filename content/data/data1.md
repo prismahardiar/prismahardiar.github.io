@@ -5,12 +5,12 @@ tags: ["keyword 5","keyword 6","keyword 7","keyword 10"]
 author: ["Author Name 1", "Author Name 2", "Author Name 3"]
 description: "This dataset contains things."
 summary: "This dataset contains information on things in several countries."
-# cover:
-    # image: "/data1.png"
-    # alt: "Figure caption"
-    # relative: false
+cover:
+    image: "/data1.png"
+    alt: "Figure caption"
+    relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/squareroot-uv"
+    URL: "https://github.com/prismahardiar"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false

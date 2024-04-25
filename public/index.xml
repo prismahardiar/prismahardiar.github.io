@@ -26,21 +26,12 @@
     </item>
     
     <item>
-      <title>Course Title 2</title>
-      <link>http://localhost:1313/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Book Title 1</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 2</title>
-      <link>http://localhost:1313/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book shows the result of scientific work.</description>
     </item>
     
     <item>
@@ -50,6 +41,15 @@
       
       <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This paper shows things. Published in Journal Name, 2012.</description>
+    </item>
+    
+    <item>
+      <title>Research Title 1</title>
+      <link>http://localhost:1313/research/research1/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/research1/</guid>
+      <description>This research shows the roadmap</description>
     </item>
     
     

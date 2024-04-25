@@ -20,15 +20,21 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+        - name: Research
+          url: research/
           weight: 4
+        - name: Books
+          url: books/
+          weight: 5  
+        - name: Newsletter
+          url: https://prismahardiar.substack.com
+          weight: 6
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "I am an amateur mathematician at Data Science of Universitas Pembangunan Nasional 'Veteran' Jawa Timur. My research covers various topics.
 consequat."
-    author: Name
-    # googleAnalyticsID: "G-XXXXX"
+    author: Prismahardi Aji Riyantoko
+    googleAnalyticsID: "G-L06KLJBQY8"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -50,8 +56,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Prismahardi Aji Riyantoko
+          subtitle: "I am an amateur mathematician at Data Science of Universitas Pembangunan Nasional 'Veteran' Jawa Timur. My research covers various topics."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -63,31 +69,33 @@ consequat."
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: Research
+              url: research/
+            - name: Books
+              url: books/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: 
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:prismahardi.aji.ds@upnjatim.ac.id
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.co.id/citations?user=AU-M4OwAAAAJ&hl=id
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@prismahardiar
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/prismahardiar
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://prismahardiar.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/prismahardiar
 
     assets:
         disableHLJS: true
