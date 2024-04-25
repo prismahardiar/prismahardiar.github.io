@@ -37,7 +37,7 @@ consequat."
     googleAnalyticsID: "G-L06KLJBQY8"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
