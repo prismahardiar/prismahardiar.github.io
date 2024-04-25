@@ -31,8 +31,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am an amateur mathematician at Data Science of Universitas Pembangunan Nasional 'Veteran' Jawa Timur. My research covers various topics.
-consequat."
+    description: "Welcome to my personal website! My research interests are mathematical modelling, optimal control, and reinforcement learning"
     author: Prismahardi Aji Riyantoko
     googleAnalyticsID: "G-L06KLJBQY8"
     DateFormat: "January 2006"
@@ -57,7 +56,7 @@ consequat."
     profileMode:
           enabled: true
           title: Prismahardi Aji Riyantoko
-          subtitle: "I am an amateur mathematician at Data Science of Universitas Pembangunan Nasional 'Veteran' Jawa Timur. My research covers various topics."
+          subtitle: "Welcome to my personal website! My research interests are mathematical modelling, optimal control, and reinforcement learning."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
