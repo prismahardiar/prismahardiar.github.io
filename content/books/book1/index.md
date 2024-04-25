@@ -43,6 +43,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
+##### Acknowledgement
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+---
+
 ##### Citation
 
 Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.

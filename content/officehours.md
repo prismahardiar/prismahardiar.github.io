@@ -7,7 +7,8 @@ description: "Schedule and location for office hours."
 --- 
 #### Schedule
 
-Office hours take place on Day at Hour.
+- Monday - Thursday     : 07.00 - 17.00 WIB (UTC+7)
+- Friday                : 09.00 - 17.00 WIB (UTC+7)
 
 ---
 

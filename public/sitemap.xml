@@ -41,10 +41,22 @@
     <loc>http://localhost:1313/tags/keyword-3/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/books/book1/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/paper1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/books/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/research1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>

@@ -58,10 +58,10 @@ consequat."
           enabled: true
           title: Prismahardi Aji Riyantoko
           subtitle: "I am an amateur mathematician at Data Science of Universitas Pembangunan Nasional 'Veteran' Jawa Timur. My research covers various topics."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Prismahardi Aji Riyantoko
           buttons:
             - name: Papers
               url: papers/
