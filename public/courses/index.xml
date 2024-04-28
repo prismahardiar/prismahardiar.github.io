@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Linear Algebra</title>
+      <link>http://localhost:1313/courses/course3/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course3/</guid>
+      <description>Linear Algebra course presents elementary linear algebra with python programming learning.</description>
+    </item>
+    
+    <item>
       <title>Mathematics for Data Science I</title>
       <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
@@ -23,6 +32,15 @@
       
       <guid>http://localhost:1313/courses/course2/</guid>
       <description>Mathematics for Data Science II course presents advanced calculus</description>
+    </item>
+    
+    <item>
+      <title>Numerical Analysis</title>
+      <link>http://localhost:1313/courses/course4/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course4/</guid>
+      <description>Numerical Analysis course presents mathematical numerical method and analysis.</description>
     </item>
     
   </channel>
