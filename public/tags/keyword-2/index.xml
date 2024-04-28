@@ -6,25 +6,7 @@
     <description>Recent content in Keyword 2 on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keyword-2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course Title 1</title>
-      <link>http://localhost:1313/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/courses/course1/</guid>
-      <description>This undergraduate course presents things.</description>
-    </item>
-    
-    <item>
-      <title>Book Title 1</title>
-      <link>http://localhost:1313/books/book1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/books/book1/</guid>
-      <description>This book shows the result of scientific work.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keyword-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paper Title 1</title>
       <link>http://localhost:1313/papers/paper1/</link>

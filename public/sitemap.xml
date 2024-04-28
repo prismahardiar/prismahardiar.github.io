@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/applied/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/calculus/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-science/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fact/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/book1/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mathematics/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/course1/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/course2/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,34 +56,16 @@
     <loc>http://localhost:1313/tags/keyword-7/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/keyword-1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-2/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-3/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/books/book1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/books/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
