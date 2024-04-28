@@ -6,7 +6,25 @@
     <description>Recent content on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics for Data Science I</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>Mathematics for Data Science I course presents pre-calculus and calculus</description>
+    </item>
+    
+    <item>
+      <title>Mathematics for Data Science II</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>Mathematics for Data Science II course presents advanced calculus</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
       <link>http://localhost:1313/data/data1/</link>
@@ -14,15 +32,6 @@
       
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains things.</description>
-    </item>
-    
-    <item>
-      <title>Mathematics for Data Science I</title>
-      <link>http://localhost:1313/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/courses/course1/</guid>
-      <description>Mathematics for Data Science I course presents pre-calculus and calculus</description>
     </item>
     
     <item>

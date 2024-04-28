@@ -1,10 +1,10 @@
 ---
-title: "Mathematics for Data Science I"
+title: "Mathematics for Data Science II"
 date: 2024-04-28
 tags: ["Mathematics","Calculus","Data Science"]
 author: "Prismahardi Aji Riyantoko"
-description: "Mathematics for Data Science I course presents pre-calculus and calculus" 
-summary: "Mathematics for Data Science I course presents function, limits, differential, and integration." 
+description: "Mathematics for Data Science II course presents advanced calculus" 
+summary: "Mathematics for Data Science I course presents Multivariable Calculus, Vectors, and Multivariable Integration." 
 cover:
     image: "course1.png"
     alt: "Figure caption"
@@ -24,7 +24,7 @@ disableAnchoredHeadings: false
 
 ---
 
-## Review of Algebra and Calculus
+## Multivaribale Functions
 
 This section reviews things.
 
@@ -34,10 +34,11 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Graphs of Functions](lecture1.pdf)
-2. [Limits and Derivatives](lecture1.pdf)
-3. [Applications of Derivatives](lecture1.pdf)
-4. [Definite Integrals](lecture1.pdf)
+1. [Three-Dimensional Coordinate Systems](lecture1.pdf)
+2. [Functions of Several Variables](lecture1.pdf)
+3. [Limits and Continuity](lecture1.pdf)
+4. [Partial Derivatives](lecture1.pdf)
+5. [Linear Approximations](lecture1.pdf)
 
 ##### Readings
 
@@ -50,7 +51,7 @@ This section reviews things.
 
 ---
 
-## Advanced Integration and Applications
+## Vectors 
 
 This section reviews things.
 
@@ -60,13 +61,13 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
+1. [Vectors](lecture1.pdf)
+2. [The Dot Product](lecture1.pdf)
+3. [Normal Equations of Planes](lecture1.pdf)
+4. [The Gradient Vector](lecture1.pdf)
+5. [The Chain Rule](lecture1.pdf)
+6. [Maximum and Minimum Values](lecture1.pdf)
+7. [Lagrange Multipliers](lecture1.pdf)
 
 ##### Readings
 
@@ -79,7 +80,7 @@ This section reviews things.
 
 ---
 
-## Series
+## Multivariable Integration
 
 This section reviews things.
 
@@ -89,11 +90,10 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
+1. [Double Integrals](lecture1.pdf)
+2. [Double Integrals over Genera Regions](lecture1.pdf)
+3. [Joint Probability](lecture1.pdf)
+4. [Triple Integrals](lecture1.pdf)
 
 ##### Readings
 
