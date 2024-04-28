@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Discrete Mathematics</title>
+      <link>http://localhost:1313/courses/course5/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course5/</guid>
+      <description>Discrete Mathematics course presents logical mathematics and pratice discrete application.</description>
+    </item>
+    
+    <item>
       <title>Linear Algebra</title>
       <link>http://localhost:1313/courses/course3/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>

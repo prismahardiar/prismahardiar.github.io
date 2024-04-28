@@ -50,7 +50,7 @@ This section reviews things.
 
 ---
 
-## TaylorSeries 
+## Taylor Series 
 
 This section reviews things.
 
