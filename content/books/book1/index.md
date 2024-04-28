@@ -1,17 +1,17 @@
 ---
-title: "Book Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This book shows the result of scientific work." 
-summary: "This book shows things using various techniques and data." 
+title: "Math Corner 1" 
+date: 2024-04-28
+tags: ["Fact","Applied","Mathematics","Data Science"]
+author: "Prismahardi Aji Riyantoko"
+description: "Math Corner is an article that discusses the perspective and real-life applications of mathematics, reflecting its evolution through scientific advancements." 
+summary: "[POV: Applied Mathematics in Data Science]" 
 cover:
     image: "book1.png"
-    alt: "Image caption"
+    alt: ""
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Publisher Name"
+    URL: ""
+    Text: ""
 
 ---
 
@@ -55,9 +55,9 @@ Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https:/
 
 ```BibTeX
 @article{AAYY,
-author = {Author},
+author = {Prismahardi Aji Riyantoko},
 doi = {paper_doi},
-journal = {Journal},
+publisher = {Publisher},
 number = {Issue},
 pages = {XXX--YYY},
 title ={Title},
