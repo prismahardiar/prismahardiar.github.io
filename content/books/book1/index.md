@@ -1,10 +1,10 @@
 ---
-title: "Math Corner 1" 
+title: "POV: Applied Mathematics in Data Science" 
 date: 2024-04-28
-tags: ["Fact","Applied","Mathematics","Data Science"]
+tags: ["Fact","Applied","Mathematics","Data Science", "Math Corner"]
 author: "Prismahardi Aji Riyantoko"
-description: "Math Corner is an article that discusses the perspective and real-life applications of mathematics, reflecting its evolution through scientific advancements." 
-summary: "[POV: Applied Mathematics in Data Science]" 
+description: "Math Corner I" 
+summary: "Math Corner is an article that discusses the perspective and real-life applications of mathematics, reflecting its evolution through scientific advancements." 
 cover:
     image: "book1.png"
     alt: ""
