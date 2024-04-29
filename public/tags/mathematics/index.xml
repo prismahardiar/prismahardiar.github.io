@@ -34,14 +34,5 @@
       <description>Mathematics for Data Science II course presents advanced calculus</description>
     </item>
     
-    <item>
-      <title>POV: Applied Mathematics in Data Science</title>
-      <link>http://localhost:1313/books/book1/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/books/book1/</guid>
-      <description>Math Corner I</description>
-    </item>
-    
   </channel>
 </rss>

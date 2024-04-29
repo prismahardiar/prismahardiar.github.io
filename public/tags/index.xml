@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Applied</title>
-      <link>http://localhost:1313/tags/applied/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/applied/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MathCorner</title>
+      <link>http://localhost:1313/tags/mathcorner/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mathcorner/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
     </item>
     
     <item>
-      <title>Data Science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Discrete Mathematics</title>
       <link>http://localhost:1313/tags/discrete-mathematics/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
@@ -44,29 +53,11 @@
     </item>
     
     <item>
-      <title>Fact</title>
-      <link>http://localhost:1313/tags/fact/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/fact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Linear Algebra</title>
       <link>http://localhost:1313/tags/linear-algebra/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/linear-algebra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Math Corner</title>
-      <link>http://localhost:1313/tags/math-corner/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/math-corner/</guid>
       <description></description>
     </item>
     
