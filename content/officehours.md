@@ -7,8 +7,8 @@ description: "Schedule and location for office hours."
 --- 
 #### Schedule
 
-- Monday - Thursday     : 07.00 - 17.00 WIB (UTC+7)
-- Friday                : 09.00 - 17.00 WIB (UTC+7)
++ Monday - Thursday     : 07.00 - 17.00 WIB (UTC+7)
++ Friday                : 09.00 - 17.00 WIB (UTC+7)
 
 ---
 
@@ -18,7 +18,7 @@ By default meetings are in my office. I am also available for virtual meetings o
 
 ---
 
-#### Meeting material
+#### Meeting Material
 
 + If we are meeting to discuss research, please send me a written description of the work that you would like to discus. 
 + Presentation slides or paper draft are perfectly fine. 
