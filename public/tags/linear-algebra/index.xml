@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Linear ALgebra on Prismahardi Aji Riyantoko</title>
+    <title>Linear Algebra on Prismahardi Aji Riyantoko</title>
     <link>http://localhost:1313/tags/linear-algebra/</link>
-    <description>Recent content in Linear ALgebra on Prismahardi Aji Riyantoko</description>
+    <description>Recent content in Linear Algebra on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/courses/course3/</guid>
-      <description>Mathematics for Data Science II course presents advanced calculus</description>
+      <description>Linear Algebra course presents elementary linear algebra with python programming learning.</description>
     </item>
     
   </channel>

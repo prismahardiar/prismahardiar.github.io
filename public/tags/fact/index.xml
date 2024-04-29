@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fact/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Math Corner 1</title>
+      <title>POV: Applied Mathematics in Data Science</title>
       <link>http://localhost:1313/books/book1/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/books/book1/</guid>
-      <description>Math Corner is an article that discusses the perspective and real-life applications of mathematics, reflecting its evolution through scientific advancements.</description>
+      <description>Math Corner I</description>
     </item>
     
   </channel>

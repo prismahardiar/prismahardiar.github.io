@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Discrete Mathematics</title>
+      <link>http://localhost:1313/tags/discrete-mathematics/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/discrete-mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fact</title>
       <link>http://localhost:1313/tags/fact/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
@@ -44,11 +53,47 @@
     </item>
     
     <item>
+      <title>Linear Algebra</title>
+      <link>http://localhost:1313/tags/linear-algebra/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math Corner</title>
+      <link>http://localhost:1313/tags/math-corner/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/math-corner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematics</title>
       <link>http://localhost:1313/tags/mathematics/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Analysis</title>
+      <link>http://localhost:1313/tags/numerical-analysis/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/numerical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     
