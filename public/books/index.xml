@@ -16,5 +16,14 @@
       <description>Math Corner</description>
     </item>
     
+    <item>
+      <title>POV: Applied Mathematics in Data Science</title>
+      <link>http://localhost:1313/books/book2/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/book2/</guid>
+      <description>Math Corner</description>
+    </item>
+    
   </channel>
 </rss>
