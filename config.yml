@@ -31,7 +31,7 @@ menu:
           weight: 6
 
 params:
-    description: "Welcome to my personal website! My research interests are mathematical modelling, optimal control, and reinforcement learning"
+    description: "Welcome to my personal website! My research interests are applied mathematics and learning support system"
     author: Prismahardi Aji Riyantoko
     googleAnalyticsID: "G-L06KLJBQY8"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Prismahardi Aji Riyantoko
-          subtitle: "Welcome to my personal website! My research interests are mathematical modelling, optimal control, and reinforcement learning."
+          subtitle: "Welcome to my personal website! My research interests are applied mathematics and learning support system."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
