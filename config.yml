@@ -56,8 +56,8 @@ params:
     profileMode:
           enabled: true
           title: Prismahardi Aji Riyantoko
-          subtitle: "I'm a keen learner"
-          imageUrl: "picture.jpeg"
+          subtitle: "Keen learner"
+          imageUrl: "prisma.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -71,10 +71,6 @@ params:
               url: data/
             - name: Books
               url: books/
-            #- name: Tags
-            #  url: tags/
-            #- name: Archive
-            #  url: archive/
             - name: Newsletter
               url: https://prismahardiar.substack.com
 

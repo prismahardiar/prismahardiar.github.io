@@ -113,5 +113,33 @@
       <guid>http://localhost:1313/tags/oleic-science/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Differential</title>
+      <link>http://localhost:1313/tags/differential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/differential/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Function</title>
+      <link>http://localhost:1313/tags/function/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Integral</title>
+      <link>http://localhost:1313/tags/integral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/integral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Limits</title>
+      <link>http://localhost:1313/tags/limits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/limits/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

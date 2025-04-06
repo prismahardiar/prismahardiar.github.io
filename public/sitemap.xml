@@ -77,18 +77,24 @@
     <loc>http://localhost:1313/papers/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/researchs/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/researchs/research-1/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/differential/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/function/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/integral/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/limits/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/msd1/</loc>
   </url>
 </urlset>
