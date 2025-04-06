@@ -1,0 +1,121 @@
+baseURL: "https://prismahardiar.github.io/" 
+title: Prismahardi Aji Riyantoko
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Books
+          url: books/
+          weight: 5 
+        - name: Researchs
+          url: researchs/
+          weight: 2 
+        - name: Papers
+          url: papers/
+          weight: 4
+        - name: Courses
+          url: courses/
+          weight: 1
+        - name: Data
+          url: data/
+          weight: 3 
+        - name: Newsletter
+          url: https://prismahardiar.substack.com
+          weight: 6
+
+params:
+    description: "Amateaur Mathematician"
+    author: Prismahardi Aji Riyantoko
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "April 2025"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data","researchs"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Prismahardi Aji Riyantoko
+          subtitle: "I'm a keen learner"
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Researchs
+              url: researchs/
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Books
+              url: books/
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
+            - name: Newsletter
+              url: https://prismahardiar.substack.com
+
+    socialIcons:
+        - name: CV
+          url: 
+        - name: Email
+          url: mailto:prismahardi.aji.ds@upnjatim.ac.id
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.co.id/citations?user=AU-M4OwAAAAJ&hl=id
+        - name: YouTube
+          url: https://www.youtube.com/@prismahardiar
+        - name: GitHub
+          url: https://github.com/prismahardiar
+        - name: Substack
+          url: https://prismahardiar.substack.com
+        - name: Twitter
+          url: https://twitter.com/prismahardiar
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Prismahardi Aji Riyantoko"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
