@@ -32,7 +32,7 @@ menu:
 params:
     description: "Amateaur Mathematician"
     author: Prismahardi Aji Riyantoko
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-XXXXX"
     DateFormat: "April 2025"
     defaultTheme: light
     hideFooter: false
@@ -61,14 +61,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Researchs
-              url: researchs/
             - name: Courses
               url: courses/
+            - name: Researchs
+              url: researchs/
             - name: Data
               url: data/
+            - name: Papers
+              url: papers/
             - name: Books
               url: books/
             - name: Newsletter
