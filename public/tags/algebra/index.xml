@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algebra on Prismahardi Aji Riyantoko</title>
+    <link>http://localhost:1313/tags/algebra/</link>
+    <description>Recent content in Algebra on Prismahardi Aji Riyantoko</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear Algebra</title>
+      <link>http://localhost:1313/courses/aljabar/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/aljabar/</guid>
+      <description>This undergraduate course presents linear algebra</description>
+    </item>
+  </channel>
+</rss>

@@ -32,8 +32,8 @@ menu:
 params:
     description: "Amateaur Mathematician"
     author: Prismahardi Aji Riyantoko
-    googleAnalyticsID: "G-XXXXX"
-    DateFormat: "April 2025"
+    googleAnalyticsID: "G-3058680567"
+    DateFormat: "2 January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -76,7 +76,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: 
+          url: prismahardiar-cv.pdf
         - name: Email
           url: mailto:prismahardi.aji.ds@upnjatim.ac.id
         - name: Location
@@ -91,7 +91,7 @@ params:
           url: https://github.com/prismahardiar
         - name: Substack
           url: https://prismahardiar.substack.com
-        - name: Twitter
+        - name: X
           url: https://twitter.com/prismahardiar
 
     assets:

@@ -1,14 +1,14 @@
 ---
 title: "Office Hours"
-date: 2024-05-08
+date: 2025-04-17
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and location for Prismahardi Aji Riyantoko's office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+Office hours take place on Monday - Friday at 7am - 4pm.
 
 ---
 

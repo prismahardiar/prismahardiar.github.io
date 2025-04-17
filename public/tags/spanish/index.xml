@@ -6,20 +6,40 @@
     <description>Recent content in Spanish on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/spanish/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
+      <title>DataHub</title>
       <link>http://localhost:1313/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/researchs/research-1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/research-1/</guid>
+      <title>Learning Management Systems</title>
+      <link>http://localhost:1313/researchs/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/learning/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Matrix-Quantum Computation</title>
+      <link>http://localhost:1313/researchs/matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/matrix/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Renewable Energy</title>
+      <link>http://localhost:1313/researchs/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/energy/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>UAV</title>
+      <link>http://localhost:1313/researchs/uav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/uav/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
   </channel>

@@ -6,35 +6,28 @@
     <description>Recent content on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mathematics vs. Animations</title>
-      <link>http://localhost:1313/books/book1/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/book1/</guid>
-      <description>This book presents a mathematics vs. animations</description>
-    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/location/</guid>
-      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+      <description>Prismahardi Aji Riyantoko&amp;#39;s mailing and office addresses at the UPN Veteran Jawa Timur</description>
     </item>
     <item>
       <title>Office Hours</title>
       <link>http://localhost:1313/officehours/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/officehours/</guid>
-      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+      <description>Schedule and location for Prismahardi Aji Riyantoko&amp;#39;s office hours.</description>
     </item>
     <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
-      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+      <title>Linear Algebra</title>
+      <link>http://localhost:1313/courses/aljabar/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/aljabar/</guid>
+      <description>This undergraduate course presents linear algebra</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
@@ -44,10 +37,52 @@
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/researchs/research-1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/research-1/</guid>
+      <title>Business Data Modelling</title>
+      <link>http://localhost:1313/courses/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/business/</guid>
+      <description>This undergraduate course presents business data modeling</description>
+    </item>
+    <item>
+      <title>Calculus for Data Science</title>
+      <link>http://localhost:1313/books/calculus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/calculus/</guid>
+      <description>This book presents a mathematics vs. animations</description>
+    </item>
+    <item>
+      <title>DataHub</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Discrete Mathematics</title>
+      <link>http://localhost:1313/courses/discrete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/discrete/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Fundamental of Designing Data Science Project</title>
+      <link>http://localhost:1313/courses/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/projects/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Introduction to Statistics</title>
+      <link>http://localhost:1313/courses/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/statistics/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Learning Management Systems</title>
+      <link>http://localhost:1313/researchs/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/learning/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
@@ -56,6 +91,55 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/msd1/</guid>
       <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Mathematics for Data Science II</title>
+      <link>http://localhost:1313/courses/msd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/msd2/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Matrix-Quantum Computation</title>
+      <link>http://localhost:1313/researchs/matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/matrix/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Numerical Analysis</title>
+      <link>http://localhost:1313/courses/numerical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/numerical/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>People Analytics</title>
+      <link>http://localhost:1313/courses/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/people/</guid>
+      <description>This undergraduate course presents mathematical theory for data science</description>
+    </item>
+    <item>
+      <title>Renewable Energy</title>
+      <link>http://localhost:1313/researchs/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/energy/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>UAV</title>
+      <link>http://localhost:1313/researchs/uav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/uav/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Writing Documents using LaTex</title>
+      <link>http://localhost:1313/books/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/latex/</guid>
+      <description>This book presents a mathematics vs. animations</description>
     </item>
   </channel>
 </rss>
