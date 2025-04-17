@@ -17,16 +17,16 @@
     <loc>http://localhost:1313/courses/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eigenvalue/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/courses/aljabar/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/matrix/</loc>
+    <loc>http://localhost:1313/tags/matrices/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vectors/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/history-of-oil/</loc>
@@ -53,6 +53,8 @@
   </url><url>
     <loc>http://localhost:1313/books/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/business/</loc>
+  </url><url>
     <loc>http://localhost:1313/courses/business/</loc>
   </url><url>
     <loc>http://localhost:1313/books/calculus/</loc>
@@ -60,6 +62,8 @@
     <loc>http://localhost:1313/researchs/</loc>
   </url><url>
     <loc>http://localhost:1313/data/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/data/</loc>
   </url><url>
     <loc>http://localhost:1313/data/data1/</loc>
   </url><url>
@@ -95,7 +99,11 @@
   </url><url>
     <loc>http://localhost:1313/researchs/matrix/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/model/</loc>
+  </url><url>
     <loc>http://localhost:1313/courses/numerical/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/optimization/</loc>
   </url><url>
     <loc>http://localhost:1313/courses/people/</loc>
   </url><url>

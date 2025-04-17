@@ -16,17 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>EigenValue</title>
-      <link>http://localhost:1313/tags/eigenvalue/</link>
+      <title>Matrices</title>
+      <link>http://localhost:1313/tags/matrices/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eigenvalue/</guid>
+      <guid>http://localhost:1313/tags/matrices/</guid>
       <description></description>
     </item>
     <item>
-      <title>Matrix</title>
-      <link>http://localhost:1313/tags/matrix/</link>
+      <title>Vectors</title>
+      <link>http://localhost:1313/tags/vectors/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/matrix/</guid>
+      <guid>http://localhost:1313/tags/vectors/</guid>
       <description></description>
     </item>
     <item>
@@ -62,6 +62,20 @@
       <link>http://localhost:1313/tags/animation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>http://localhost:1313/tags/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
@@ -125,6 +139,20 @@
       <link>http://localhost:1313/tags/mathematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model</title>
+      <link>http://localhost:1313/tags/model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
