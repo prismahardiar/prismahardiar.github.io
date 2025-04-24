@@ -8,7 +8,7 @@ author: "Prismahardi Aji Riyantoko"
 description: "This undergraduate course presents mathematical theory for data science" 
 summary: "This undergraduate course presents mathematical concepts that emphasizes the theoritical of limit, function, differential, and integral" 
 cover:
-    image: "course1.png"
+    image: "msd2.png"
     alt: "Mathemathics for Data Science I"
     relative: false
 editPost:

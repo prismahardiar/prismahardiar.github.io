@@ -5,8 +5,8 @@ aliases:
     - /courses/algebra/
 tags: ["Algebra","Matrices","Vectors"]
 author: "Prismahardi Aji Riyantoko"
-description: "This undergraduate course presents linear algebra" 
-summary: "This course presents mathematical concepts that emphasizes the theoritical of vector, matrix, and systems of linear equations" 
+description: "" 
+summary: "" 
 cover:
     image: "alg.png"
     alt: "Linear Algebra"
@@ -21,8 +21,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Objective Learning 
-+ Tools : SageMath, Python
++ Understand the basic concepts of linear algebra and matrix/vector operations.
 
 ---
 
@@ -36,13 +35,6 @@ disableAnchoredHeadings: false
 ##### Lecture presentation slide
 
 1. [Vectors and Matrices](lecture1.pdf)
-2. [Matrix Operations](lecture1.pdf)
-3. [Systems of Linear Equations](lecture1.pdf)
-4. [Matrix Decompositions](lecture1.pdf)
-5. [Vector Spaces & Basis](lecture1.pdf)
-6. [Determinants & Traces](lecture1.pdf)
-7. [Positive Definite Matrices](lecture1.pdf)
-8. [Matrix Calculus](lecture1.pdf)
 
 ##### Practices
 
