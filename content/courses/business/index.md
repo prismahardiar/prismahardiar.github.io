@@ -22,7 +22,6 @@ disableAnchoredHeadings: false
 ## Introduction
 
 + Learning Outcomes
-+ Description
 
 ---
 
