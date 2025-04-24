@@ -7,7 +7,7 @@ author: ["Prismahardi Aji Riyantoko"]
 description: "This book presents a mathematics vs. animations"
 summary: "This book discusses a mathematics vs. animations"
 cover:
-    image: "book1.png"
+    image: "calculus.png"
     alt: "Mathematics vs. Animations"
     relative: false
 editPost:
