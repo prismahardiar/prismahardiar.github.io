@@ -3,7 +3,7 @@ title: "Mathematics for Data Science I"
 date: 
 aliases: 
     - /courses/msd1/
-tags: ["Limits","Function","Differential","Integral"]
+tags: ["Limits","Derivatie","Integral", "Applications"]
 author: "Prismahardi Aji Riyantoko"
 description: "This undergraduate course presents mathematical theory for data science" 
 summary: "This undergraduate course presents mathematical concepts that emphasizes the theoritical of limit, function, differential, and integral" 
@@ -21,14 +21,12 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes
-+ Description
++ Learning Outcome 1
++ Learning Outcome 2
 
 ---
 
-## Review of Algebra and Calculus
-
-This section reviews things.
+### Preliminaries
 
 ##### Lecture videos
 
@@ -36,25 +34,22 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Graphs of Functions](lecture1.pdf)
-2. [Limits and Derivatives](lecture1.pdf)
-3. [Applications of Derivatives](lecture1.pdf)
-4. [Definite Integrals](lecture1.pdf)
+1. [Real Numbers,Estimation, and Logic]()
+2. [Inequalities and Absolute Values]()
+3. [The Rectangular Coordinate System]()
+4. [Graphs of Equations]()
+5. [Functions and Their Graphs]()
+6. [Operations on Functions]()
+7. [Exponential and Logarithmic Functions]()
+8. [The Trigonometric Functions]()
+9. [The Inverse Trigonometric Functions]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
 
----
-
-## Advanced Integration and Applications
-
-This section reviews things.
+### Limits
 
 ##### Lecture videos
 
@@ -62,28 +57,19 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
+1. [Introduction to Limits]()
+2. [Rigorous Study of Limits]()
+3. [Limit Theorems]()
+4. [Limits at Infinity, Infinite Limits]()
+5. [Limits Involving Trigonometric Functions]()
+6. [Natural Exponential, Natural Log, and Hyperbolic Functions]()
+7. [Continuity of Functions]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Series
-
-This section reviews things.
+### The Derivative
 
 ##### Lecture videos
 
@@ -91,23 +77,110 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
+1. [Two Problems with One Theme]()
+2. [The Derivative]()
+3. [Rules for Finding Derivatives]()
+4. [Derivatives of Trigonometric Functions]()
+5. [The Chain Rule]()
+6. [Higher-Order Derivatives]()
+7. [Implicit Differentiation]()
+8. [Related Rates]()
+9. [Derivatives of Exponential and Logarithmic Functions]()
+10. [Derivatives of Hyperbolic and Inverse Trigonometric Functions]()
+11. [Differentials and Approximations]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
+##### Homework
 
+### Applications of the Derivative
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Maxima and Minima]()
+2. [Monotonicity and Concavity]()
+3. [Local Extrema and Extrema on Open Intervals]()
+4. [Practical Problems]()
+5. [Graphing Functions Using Calculus]()
+6. [The Mean Value Theorem for Derivatives]()
+7. [Solving Equations Numerically]()
+8. [Antiderivatives]()
+9. [Introduction to Differential Equations]()
+10. [Exponential Growth and Decay]()
+
+##### Readings
 
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
+### The Definite Integral
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Introduction to Area]()
+2. [The Definite Integral]()
+3. [The First Fundamental Theorem of Calculus]()
+4. [The Second Fundamental Theorem of Calculus and the Method of Substitution]()
+5. [The Mean Value Theorem for Integrals and the Use of Symmetry]()
+6. [Numerical Integration]()
+
+##### Readings
+
+##### Homework
+
+### Applications of the Integral
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [The Area of a Plane Region]()
+2. [Volumes of Solids: Slabs, Disks, Washers]()
+3. [Volumes of Solids of Revolution: Shells]()
+4. [Length of a Plane Curve]()
+5. [Work and Fluid Force]()
+6. [Moments and Center of Mass]()
+7. [Probability and Random Variables]()
+
+##### Readings
+
+##### Homework
+
+### Techniques of Integration and Differential Equations
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Basic Integration Rules]()
+2. [Integration by Parts]()
+3. [Some Trigonometric Integrals]()
+4. [Rationalizing Substitutions]()
+5. [Integration of Rational Functions Using Partial Fractions]()
+6. [Strategies for Integration]()
+7. [First-Order Linear Differential Equations]()
+8. [Approximations for Differential Equations]()
+
+##### Readings
+
+##### Homework
+
 
 ---
 
 ## References
+
++ Varberg, D, Purcell, E.F, & Rigdon, S.E. (2014). "Calculus Early Transcendentals - 1st Edition - Pearson New International Edition". Pearson Education Limited, Edinburg Gate. 
 
 ---
