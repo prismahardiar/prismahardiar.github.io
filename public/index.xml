@@ -29,7 +29,7 @@
       <guid>http://localhost:1313/courses/algebra/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Understand the basic concepts of linear algebra and matrix/vector operations.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
@@ -39,10 +39,19 @@
 &lt;/ol&gt;
 &lt;h5 id=&#34;lecture-presentation-slide&#34;&gt;Lecture presentation slide&lt;/h5&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;lecture1.pdf&#34;&gt;Vectors and Matrices&lt;/a&gt; &lt;br&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;lecture1.pdf&#34;&gt;Vectors and Matrices&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;$$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$&lt;/p&gt;</description>
+&lt;h5 id=&#34;practices&#34;&gt;Practices&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;quiz1.pdf&#34;&gt;Matrices-Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;readings&#34;&gt;Readings&lt;/h5&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gilbert Strang. &amp;ldquo;Linear Algebra and Its Application&amp;rdquo;. Brooks/Cole Pub Co - 4th edition. 2005.&lt;/li&gt;
+&lt;li&gt;Marc Peter Deisenroth, A. Aldo Faisal, &amp;amp; Cheng Soon Ong. &amp;ldquo;Mathematics for Machine Learning&amp;rdquo;. Cambridge University Press. 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
