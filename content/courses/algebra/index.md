@@ -1,15 +1,15 @@
 ---
 title: "Linear Algebra"
-date: 2025-04-11
+date: 
 aliases: 
     - /courses/algebra/
-tags: ["Algebra","Matrices","Vectors"]
+tags: ["Algebra","Matrix","Vector"]
 author: "Prismahardi Aji Riyantoko"
-description: "" 
-summary: "" 
+description: "This undergraduate course presents business data modeling" 
+summary: "This undergraduate course presents business data modeling that emphasizes the basic of business, variation of data business, generate a model using mathematical theory" 
 cover:
     image: "alg.png"
-    alt: "Linear Algebra"
+    alt: "inear Algebra"
     relative: false
 editPost:
     URL: "https://prismahardiar.github.io"
@@ -21,12 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ 
++ Learning Outcomes 1
++ Learning Outcomes 2
 
 ---
 
-## Materials 
+## Materials
 
+### Vectors and Matrices
 
 ##### Lecture videos
 
@@ -34,16 +36,158 @@ disableAnchoredHeadings: false
 
 ##### Lecture presentation slide
 
-1. [Vectors and Matrices](lecture1.pdf) 
-
-##### Practices
-
-+ [Matrices-Python](quiz1.pdf)
+1. [Vectors and Linear Combinations](lecture1.pdf)
+2. [Lengths and Angles from Dot Products](lecture1.pdf)
+3. [Matrices and Their Column Spaces](lecture1.pdf)
+4. [Matrix Multiplication $AB$ and $CR$](lecture1.pdf)
 
 ##### Readings
 
++ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
+
+##### Homework
+
++ [Quiz 1](quiz1.pdf)
+
+### Solving Linear Equation $Ax = b$
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Elimination and Back Substitution](lecture1.pdf)
+2. [Elimination Matrices and Inverse Matrices](lecture1.pdf)
+3. [Matrix Computations and $A=LU$](lecture1.pdf)
+4. [Permutations and Transposes](lecture1.pdf)
+5. [Derivatives and Finite Difference Matrices](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### The Four Fundamental Subspaces 
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Vector Spacesand Subspaces ](lecture1.pdf)
+2. [Computing the Nullspace by Elimination $A=CR$](lecture1.pdf)
+3. [The Complete Solutionto $Ax=b$](lecture1.pdf)
+4. [Independence, Basis,and Dimension](lecture1.pdf)
+5. [Dimensions of the Four Subspaces](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Orthogonality
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Orthogonality of Vectors and Subspaces](lecture1.pdf)
+2. [Projections onto Lines and Subspaces](lecture1.pdf)
+3. [Least Squares Approximations](lecture1.pdf)
+4. [Orthonormal Bases and Gram-Schmidt](lecture1.pdf)
+5. [The Pseudoinverse of a Matrix](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Determinants
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [$3$ by $3$ Determinant sand Cofactors](lecture1.pdf)
+2. [Computing and Using Determinants](lecture1.pdf)
+3. [Areas and Volumes by Determinants](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Eigenvalues and Eigenvectors
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Introduction to Eigenvalues $Ax=\lambda x$](lecture1.pdf)
+2. [Diagonalizing a Matrix](lecture1.pdf)
+3. [Symmetric Positive Definite Matrices](lecture1.pdf)
+4. [Complex Numbers and Vectorsand Matrices](lecture1.pdf)
+5. [Solving Linear Differential Equations](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### The Singular Value Decomposition (SVD)
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Singular Values and Singular Vectors](lecture1.pdf)
+2. [Image Processing by Linear Algebra](lecture1.pdf)
+3. [Principal Component Analysis (PCA by the SVD)](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Linear Transformations
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [The Idea of a Linear Transformation](lecture1.pdf)
+2. [The Matrix of a Linear Transformation](lecture1.pdf)
+3. [The Search for a Good Basis](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Linear Algebra in Optimization
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Minimizing a Multivanable Function](lecture1.pdf)
+2. [Backpropagation and Stochastic Gradient Descent](lecture1.pdf)
+3. [Constraints, Lagrange Multipliers, Minimum Norms](lecture1.pdf)
+4. [Linear Programming, Game Theory, and Duality](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+### Learning from Data
+
+##### Lecture videos
+
+##### Lecture presentation slide
+
+1. [Piecewise Linear Learning Functions](lecture1.pdf)
+2. [Creating and Experimenting](lecture1.pdf)
+3. [Mean, Variance, and Covariance](lecture1.pdf)
+
+##### Readings
+
+##### Homework
+
+---
+
 ## References
 
-+ Gilbert Strang. "Linear Algebra and Its Application". Brooks/Cole Pub Co - 4th edition. 2005.
-+ Marc Peter Deisenroth, A. Aldo Faisal, & Cheng Soon Ong. "Mathematics for Machine Learning". Cambridge University Press. 2020.
++ Strang, G. (2023). "Introduction to Linear Algebra - 6th Edition". Wellesley - Cambridge Press, MIT.
+
 ---

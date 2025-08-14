@@ -11,24 +11,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/algebra/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/algebra/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/matrices/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/vectors/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/history-of-oil/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,8 +26,13 @@
     <loc>http://localhost:1313/tags/philology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/algebra/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/animation/</loc>
   </url><url>
@@ -58,6 +45,8 @@
     <loc>http://localhost:1313/courses/business/</loc>
   </url><url>
     <loc>http://localhost:1313/books/calculus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/</loc>
   </url><url>
     <loc>http://localhost:1313/researchs/</loc>
   </url><url>
@@ -91,11 +80,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/limits/</loc>
   </url><url>
+    <loc>http://localhost:1313/courses/algebra/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/mathematics/</loc>
   </url><url>
     <loc>http://localhost:1313/courses/msd1/</loc>
   </url><url>
     <loc>http://localhost:1313/courses/msd2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/matrix/</loc>
   </url><url>
     <loc>http://localhost:1313/researchs/matrix/</loc>
   </url><url>
@@ -120,6 +113,8 @@
     <loc>http://localhost:1313/tags/spanish/</loc>
   </url><url>
     <loc>http://localhost:1313/researchs/uav/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/vector/</loc>
   </url><url>
     <loc>http://localhost:1313/books/latex/</loc>
   </url>
