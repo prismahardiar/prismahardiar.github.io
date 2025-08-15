@@ -36,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/animation/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/applications/</loc>
+  </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
@@ -57,6 +59,8 @@
     <loc>http://localhost:1313/data/data1/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/dataset/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/derivatie/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/differential/</loc>
   </url><url>

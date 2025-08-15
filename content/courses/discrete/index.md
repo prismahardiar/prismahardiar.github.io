@@ -21,40 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes
-+ Description
++ Learning Outcome 1
++ Learning Outcome 2
 
----
+--- 
 
-## Review of Algebra and Calculus
+## Materials
 
-This section reviews things.
-
-##### Lecture videos
-
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-
-##### Lecture presentation slide
-
-1. [Graphs of Functions](lecture1.pdf)
-2. [Limits and Derivatives](lecture1.pdf)
-3. [Applications of Derivatives](lecture1.pdf)
-4. [Definite Integrals](lecture1.pdf)
-
-##### Readings
-
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Advanced Integration and Applications
-
-This section reviews things.
+### The Foundations: Logic and Proof
 
 ##### Lecture videos
 
@@ -62,28 +36,20 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
+1. [Propositional Logic]()
+2. [Applications of Propositional Logic]()
+3. [Propositional Equivalences]()
+4. [Predicates and Quantifiers]()
+5. [Nested Quantifiers]()
+6. [Rules of Inference]()
+7. [Introduction to Proofs]()
+8. [Proof Methods and Strategy]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Series
-
-This section reviews things.
+### Basic Structures: Sets, Functions, Sequences, Sums, and Matrices
 
 ##### Lecture videos
 
@@ -91,23 +57,223 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
+1. [Sets]()
+2. [Set Operations]()
+3. [Functions]()
+4. [Sequences and Summations]()
+5. [Cardinality of Sets]()
+6. [Matrices]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
+##### Homework
 
+### Algorithms
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Algorithms]()
+2. [The Growth of Functions]()
+3. [Complexity of Algorithms]()
+
+##### Readings
 
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
+### Number Theory and Cryptography 
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Divisibility and Modular Arithmetic]()
+2. [Integer Representations and Algorithms]()
+3. [Primes and Greatest Common Divisors]()
+4. [Solving Congruences]()
+5. [Applications of Congruences]()
+6. [Cryptography]()
+
+##### Readings
+
+##### Homework
+
+### Induction and Recursion
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Mathematical Induction]()
+2. [Strong Induction and Well-Ordering]()
+3. [Recursive Definitions and Structural Induction ]()
+4. [Recursive Algorithms]()
+5. [Program Correctness]()
+
+##### Readings
+
+##### Homework
+
+### Counting
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [The Basics of Counting]()
+2. [The Pigeonhole Principle]()
+3. [Permutations and Combinations]()
+4. [Binomial Coefficients and Identities]()
+5. [Generalized Permutations and Combinations]()
+6. [Generating Permutations and Combinations]()
+
+##### Readings
+
+##### Homework
+
+### Discrete Probability
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [An Introduction to Discrete Probability]()
+2. [Probability Theory]()
+3. [Bayes’ Theorem]()
+4. [Expected Value and Variance]()
+
+##### Readings
+
+##### Homework
+
+### Advanced Counting Techniques
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Applications of Recurrence Relations]()
+2. [Solving Linear Recurrence Relations]()
+3. [Divide-and-Conquer Algorithms and Recurrence Relations]()
+4. [Generating Functions]()
+5. [Inclusion–Exclusion]()
+6. [Applications of Inclusion–Exclusion]()
+
+##### Readings
+
+##### Homework
+
+### Relations
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Relations and Their Properties]()
+2. [$n$-ary Relations and Their Applications]()
+3. [Representing Relations]()
+4. [Closures of Relations]()
+5. [Equivalence Relations]()
+6. [Partial Orderings]()
+
+##### Readings
+
+##### Homework
+
+### Graphs
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Graphs and Graph Models]()
+2. [Graph Terminology and Special Types of Graphs]()
+3. [Representing Graphs and Graph Isomorphism]()
+4. [Connectivity]()
+5. [Euler and Hamilton Paths]()
+6. [Shortest-Path Problems]()
+7. [Planar Graphs]()
+8. [Graph Coloring]()
+
+##### Readings
+
+##### Homework
+
+### Trees
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Introduction to Trees]()
+2. [Applications of Trees]()
+3. [Tree Traversal]()
+4. [Spanning Trees]()
+5. [Minimum Spanning Trees]()
+
+##### Readings
+
+##### Homework
+
+### Boolean Algebra
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Boolean Functions]()
+2. [Representing Boolean Functions]()
+3. [Logic Gates]()
+4. [Minimization of Circuits]()
+
+##### Readings
+
+##### Homework
+
+### Modeling Computation
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Languages and Grammars]()
+2. [Finite-State Machines with Output]()
+3. [Finite-State Machines with No Output]()
+4. [Language Recognition]()
+5. [Turing Machines]()
+
+##### Readings
+
+##### Homework
+
 
 ---
 
 ## References
+
++ Rosen, K.H. (2012). "Discrete Mathematics and Its Application - 7th Edition". Mc Graw Hill - Connect Learn Succeed. 
 
 ---

@@ -21,13 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes
++ Learning Outcome 1
++ Learning Outcome 2
 
 ---
 
-## Review of Algebra and Calculus
+## Materials
 
-This section reviews things.
+### Review of Algebra and Calculus
 
 ##### Lecture videos
 
@@ -42,68 +43,8 @@ This section reviews things.
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Advanced Integration and Applications
-
-This section reviews things.
-
-##### Lecture videos
-
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-
-##### Lecture presentation slide
-
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
-
-##### Readings
-
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Series
-
-This section reviews things.
-
-##### Lecture videos
-
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-
-##### Lecture presentation slide
-
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
-
-##### Readings
-
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
 
 ---
 

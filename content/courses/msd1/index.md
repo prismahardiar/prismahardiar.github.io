@@ -26,6 +26,8 @@ disableAnchoredHeadings: false
 
 ---
 
+## Materials
+
 ### Preliminaries
 
 ##### Lecture videos

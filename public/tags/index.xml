@@ -51,6 +51,13 @@
       <description></description>
     </item>
     <item>
+      <title>Applications</title>
+      <link>http://localhost:1313/tags/applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/applications/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Business</title>
       <link>http://localhost:1313/tags/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,6 +76,13 @@
       <link>http://localhost:1313/tags/dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dataset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Derivatie</title>
+      <link>http://localhost:1313/tags/derivatie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/derivatie/</guid>
       <description></description>
     </item>
     <item>

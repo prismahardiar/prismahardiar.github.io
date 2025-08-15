@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes
-+ Description
++ Learning Outcome 1
++ Learning Outcome 2
 
 ---
 
-## Review of Algebra and Calculus
+## Materials
 
-This section reviews things.
+### Indeterminate Forms and Improper Integrals
 
 ##### Lecture videos
 
@@ -36,25 +36,17 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Graphs of Functions](lecture1.pdf)
-2. [Limits and Derivatives](lecture1.pdf)
-3. [Applications of Derivatives](lecture1.pdf)
-4. [Definite Integrals](lecture1.pdf)
+1. [Indeterminate Forms of Type $0/0$]()
+2. [Other Indeterminate Forms]()
+3. [Improper Integrals: Infinite Limits of Integration]()
+4. [Improper Integrals: Infinite Integrands]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
 
----
-
-## Advanced Integration and Applications
-
-This section reviews things.
+### Infinite Series
 
 ##### Lecture videos
 
@@ -62,28 +54,21 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
+1. [Infinite Sequences]()
+2. [Infinite Series]()
+3. [Positive Series: The Integral Test]()
+4. [Positive Series: Other Tests]()
+5. [Alternating Series, Absolute Convergence, and Conditional Convergence]()
+6. [Power Series]()
+7. [Operations on Power Series]()
+8. [Taylor and Maclaurin Series]()
+9. [The Taylor Approximation to a Function]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Series
-
-This section reviews things.
+### Conics and Polar Coordinates
 
 ##### Lecture videos
 
@@ -91,23 +76,109 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
+1. [The Parabola]()
+2. [Ellipses and Hyperbolas]()
+3. [Translation and Rotation of Axes]()
+4. [Parametric Representation of Curves in the Plane]()
+5. [The Polar Coordinate System]()
+6. [Graphs of Polar Equations]()
+7. [Calculus in Polar Coordinates]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
+##### Homework
 
+### Geometry in Space and Vectors
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Cartesian Coordinates in Three-Space]()
+2. [Vectors]()
+3. [The Dot Product]()
+4. [The Cross Product]()
+5. [Vector-Valued Functions and Curvilinear Motion]()
+6. [Lines and Tangent Lines in Three-Space]()
+7. [Curvature and Components of Acceleration]()
+8. [Surfaces in Three-Space]()
+9. [Cylindrical and Spherical Coordinates]()
+
+##### Readings
 
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
+### Derivatives for Functions of Two or More Variables
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Functions of Two or More Variables]()
+2. [Partial Derivatives]()
+3. [Limits and Continuity]()
+4. [Differentiability]()
+5. [Directional Derivatives and Gradients]()
+6. [The Chain Rule]()
+7. [Tangent Planes and Approximations]()
+8. [Maxima and Minima]()
+9. [The Method of Lagrange Multipliers]()
+
+##### Readings
+
+##### Homework
+
+### Multiple Integrals
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Double Integrals　over Rectangles]()
+2. [Iterated Integrals]()
+3. [Double Integrals over Nonrectangular Regions]()
+4. [Double Integrals in Polar Coordinates]()
+5. [Applications of Double Integrals]()
+6. [Surface Area]()
+7. [Triple Integrals in Cartesian Coordinates]()
+8. [Triple Integrals in Cylindrical and Spherical Coordinates]()
+9. [Change of Variables in Multiple Integrals]()
+
+##### Readings
+
+##### Homework
+
+### Vector Calculus
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Vector Fields]()
+2. [Line Integrals]()
+3. [Independence of Path]()
+4. [Green’s Theorem in the Plane]()
+5. [Surface Integrals]()
+6. [Gauss’s Divergence Theorem]()
+7. [Stokes’s Theorem]()
+
+##### Readings
+
+##### Homework
+
 
 ---
 
 ## References
+
++ Varberg, D, Purcell, E.F, & Rigdon, S.E. (2014). "Calculus Early Transcendentals - 1st Edition - Pearson New International Edition". Pearson Education Limited, Edinburg Gate. 
 
 ---
