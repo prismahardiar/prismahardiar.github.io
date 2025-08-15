@@ -30,7 +30,7 @@ disableAnchoredHeadings: false
 
 ### Chapter 1: What is Data Science?
 
-#### 1-1: What You Can Do with Data Science
+### 1-1: What You Can Do with Data Science
 
 ##### Lecture videos
 
@@ -44,7 +44,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 1-2: Testing Your Model
+### 1-2: Testing Your Model
 
 ##### Lecture videos
 
@@ -55,7 +55,7 @@ disableAnchoredHeadings: false
 1. [Offline Model Testing]()
 2. [Online Model Testing]()
 
-#### 1-3: Understanding AI
+### 1-3: Understanding AI
 
 ##### Lecture videos
 
@@ -72,7 +72,7 @@ disableAnchoredHeadings: false
 
 ### Chapter 2: Building and Sustaining a Team
 
-#### 2-4: An Ideal Data Science Team
+### 2-4: An Ideal Data Science Team
 
 ##### Lecture videos
 
@@ -85,7 +85,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 2-5: Conducting Data Science Interview
+### 2-5: Conducting Data Science Interview
 
 ##### Lecture videos
 
@@ -99,7 +99,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 2-6: Building Your Data Science Team
+### 2-6: Building Your Data Science Team
 
 ##### Lecture videos
 
@@ -118,7 +118,7 @@ disableAnchoredHeadings: false
 
 ### Chapter 3: Managing Various Data Science Projects
 
-#### 3-7:　Managing Innovation
+### 3-7:　Managing Innovation
 
 ##### Lecture videos
 
@@ -136,7 +136,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 3-8: Managing Data Science Projects
+### 3-8: Managing Data Science Projects
 
 ##### Lecture videos
 
@@ -153,7 +153,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 3-9: Common Pitfalls of Data Science Projects
+### 3-9: Common Pitfalls of Data Science Projects
 
 ##### Lecture videos
 
@@ -168,7 +168,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 3-10: Creating Products and Improving Reusability
+### 3-10: Creating Products and Improving Reusability
 
 ##### Lecture videos
 
@@ -187,7 +187,7 @@ disableAnchoredHeadings: false
 
 ### Chapter 4: Creating a Development Infrastucture
 
-#### 4-11: Implementing ModelOps
+### 4-11: Implementing ModelOps
 
 ##### Lecture videos
 
@@ -209,7 +209,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 4-12: Building Your Technology Stack
+### 4-12: Building Your Technology Stack
 
 ##### Lecture videos
 

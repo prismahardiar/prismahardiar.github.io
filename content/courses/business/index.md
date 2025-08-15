@@ -13,7 +13,7 @@ cover:
     relative: false
 editPost:
     URL: "https://prismahardiar.github.io"
-    Text: "MBusiness Data Modelling"
+    Text: "Business Data Modelling"
 showToc: true
 disableAnchoredHeadings: false
 
