@@ -21,14 +21,16 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes
-+ Description
++ Learning Outcome 1
++ Learning Outcome 2
 
 ---
 
-## Review of Algebra and Calculus
+## Materials
 
-This section reviews things.
+### What is Data Science?
+
+#### 1: What You Can Do with Data Science
 
 ##### Lecture videos
 
@@ -36,25 +38,13 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Graphs of Functions](lecture1.pdf)
-2. [Limits and Derivatives](lecture1.pdf)
-3. [Applications of Derivatives](lecture1.pdf)
-4. [Definite Integrals](lecture1.pdf)
+1. [Defining Artificial Intelligence (AI)]()
+2. [Introduction to Machine Learning]()
+3. [Introduction to Deep Learning]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Advanced Integration and Applications
-
-This section reviews things.
+#### 2: Testing Your Model
 
 ##### Lecture videos
 
@@ -62,28 +52,10 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Area Between Curves](lecture1.pdf)
-2. [Volumes](lecture1.pdf)
-3. [Integration by Parts](lecture1.pdf)
-4. [Approximate Integration](lecture1.pdf)
-5. [Improper Integrals](lecture1.pdf)
-6. [Probability](lecture1.pdf)
-7. [Functions of Random Variables](lecture1.pdf)
+1. [Offline Model Testing]()
+2. [Online Model Testing]()
 
-##### Readings
-
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
-
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-
----
-
-## Series
-
-This section reviews things.
+#### 3: Understanding AI
 
 ##### Lecture videos
 
@@ -91,23 +63,170 @@ This section reviews things.
 
 ##### Lecture presentation slide
 
-1. [Taylor Polynomials](lecture1.pdf)
-2. [Sequences](lecture1.pdf)
-3. [Series](lecture1.pdf)
-4. [Power Series](lecture1.pdf)
-5. [Taylor Series](lecture1.pdf)
+1. [Understanding Mathematical Optimization]()
+2. [Thinking with Statistics]()
+3. [Exploring Machine Learning]()
+4. [Exploring Deep Learning]()
+
+---
+
+### Building and Sustaining a Team
+
+#### 4: An Ideal Data Science Team
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Defining Data Science Team Roles]()
+2. [Exploring Data Science Team Roles and Their Responsibilities]()
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
+#### 5: Conducting Data Science Interview
 
+##### Lecture videos
 
-##### Homework
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
 
-+ [Quiz 1](quiz1.pdf)
+##### Lecture presentation slide
+
+1. [Common Flaws of Technical Interviews]()
+2. [Introducing Values and Ethics into the Interview]()
+2. [Designing Good Interview]()
+
+##### Readings
+
+#### 6: Building Your Data Science Team
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Achieving Team Zen]()
+2. [Leadership and People Management]()
+3. [Facilitating a Growth Mindset]()
+4. [Case Study - Creating a Data Science Department]()
+
+##### Readings
+
+---
+
+### Managing Various Data Science Projects
+
+#### 7:　Managing Innovation
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Understanding Innovation]()
+2. [Why Do Big Organization Fail so Often?]()
+3. [Exploring Innovation Management]()
+4. [Balancing Sales, Marketing, Team Leadership, and Technology]()
+5. [Managing Innovations in a Big Company]()
+6. [Managing Innovations in a Start-up Company]()
+7. [Finding Project Ideas]()
+
+##### Readings
+
+#### 8: Managing Data Science Projects
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Understanding Data Science Project Failure]()
+2. [Exploring the Data Science Project Life Cycle]()
+3. [Choosing a Project Management Technology]()
+4. [Choosing a Methodology That Suits Your Project]()
+5. [Estimating Data Science Projects]()
+6. [Discovering the Goals of Estimation Process]()
+
+##### Readings
+
+#### 9: Common Pitfalls of Data Science Projects
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Avoiding the Common Risks of Data Science Projects]()
+2. [Approaching Research Projects]()
+3. [Dealing with Prototype and MVP Projects]()
+4. [Mitigating Risks in Production-Oriented Data Science Systems]()
+
+##### Readings
+
+#### 10: Creating Products and Improving Reusability
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Thinking of Projects as Products]()
+2. [Determining the Stage of Your Projects]()
+3. [Improving Resuability]()
+4. [Seeking and Building Products]()
+
+##### Readings
+
+---
+
+### Creating a Development Infrastucture
+
+#### 11: Implementing ModelOps
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Understanding ModelOps]()
+2. [Looking into DevOps]()
+3. [Managing Code Versions and Quality]()
+4. [Storing Data Along with the Code]()
+5. [Managing Environments]()
+6. [Tracking Experiments]()
+7. [The Importance of Automated Testing]()
+8. [Packaging Code]()
+9. [Continuous Model Training]()
+10. [Case Study - Building ModelOps for a Predictive Maintenance System]()
+11. [A Power Pack for Your Projects]()
+
+##### Readings
+
+#### 11: Building Your Technology Stack
+
+##### Lecture videos
+
+1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+
+##### Lecture presentation slide
+
+1. [Defining the Elements of a Technology]()
+2. [Choosing between Core and Project Spesific Technologies]()
+3. [Comparing Tools and Products]()
+
+##### Readings
 
 ---
 
 ## References
+
++ Dubovikov, K. (2019). "Managing Data Science: Effective Strategy to Manage Data Science Projects and Build a Sustainable Team". Packt.
 
 ---
