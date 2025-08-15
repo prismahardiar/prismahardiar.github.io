@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcomes 1
-+ Learning Outcomes 2
++ Learning Outcomes 
++ Descriptions
 
 ---
 
 ## Materials
 
-### Vectors and Matrices
+### Chapter 1: Vectors and Matrices
 
 ##### Lecture videos
 
@@ -43,13 +43,10 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-
 ##### Homework
 
-+ [Quiz 1](quiz1.pdf)
 
-### Solving Linear Equation $Ax = b$
+### Chapter 2: Solving Linear Equation $Ax = b$
 
 ##### Lecture videos
 
@@ -65,7 +62,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### The Four Fundamental Subspaces 
+### Chapter 3: The Four Fundamental Subspaces 
 
 ##### Lecture videos
 
@@ -81,7 +78,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Orthogonality
+### Chapter 4: Orthogonality
 
 ##### Lecture videos
 
@@ -97,7 +94,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Determinants
+### Chapter 5: Determinants
 
 ##### Lecture videos
 
@@ -111,7 +108,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Eigenvalues and Eigenvectors
+### Chapter 6: Eigenvalues and Eigenvectors
 
 ##### Lecture videos
 
@@ -127,7 +124,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### The Singular Value Decomposition (SVD)
+### Chapter 7: The Singular Value Decomposition (SVD)
 
 ##### Lecture videos
 
@@ -141,7 +138,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Linear Transformations
+### Chapter 8: Linear Transformations
 
 ##### Lecture videos
 
@@ -155,7 +152,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Linear Algebra in Optimization
+### Chapter 9: Linear Algebra in Optimization
 
 ##### Lecture videos
 
@@ -170,7 +167,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Learning from Data
+### Chapter 10: Learning from Data
 
 ##### Lecture videos
 

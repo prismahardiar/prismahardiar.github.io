@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcome 1
-+ Learning Outcome 2
++ Learning Outcomes 
++ Descriptions
 
 ---
 
 ## Materials
 
-### Linear Algebra and Systems of Linear Equations
+### Chapter 1: Linear Algebra and Systems of Linear Equations
 
 ##### Lecture videos
 
@@ -47,7 +47,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Eigenvalues and Eigenvectors
+### Chapter 2: Eigenvalues and Eigenvectors
 
 ##### Lecture videos
 
@@ -64,7 +64,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Least Squares Regression 
+### Chapter 3: Least Squares Regression 
 
 ##### Lecture videos
 
@@ -82,7 +82,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Interpolation
+### Chapter 4: Interpolation
 
 ##### Lecture videos
 
@@ -100,7 +100,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Taylor Series
+### Chapter 5: Taylor Series
 
 ##### Lecture videos
 
@@ -116,7 +116,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Root Finding
+### Chapter 6: Root Finding
 
 ##### Lecture videos
 
@@ -134,7 +134,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Numerical Differentiation
+### Chapter 7: Numerical Differentiation
 
 ##### Lecture videos
 
@@ -151,7 +151,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Numerical Integration
+### Chapter 8: Numerical Integration
 
 ##### Lecture videos
 
@@ -169,7 +169,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Ordinary Differential Equations (ODEs) Initial-Value Problems
+### Chapter 9: Ordinary Differential Equations (ODEs) Initial-Value Problems
 
 ##### Lecture videos
 
@@ -189,7 +189,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Boundary-Value Problems for Ordinary Differential Equations (ODEs)
+### Chapter 10: Boundary-Value Problems for Ordinary Differential Equations (ODEs)
 
 ##### Lecture videos
 
@@ -206,7 +206,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Fourier Transform
+### Chapter 11: Fourier Transform
 
 ##### Lecture videos
 

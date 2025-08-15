@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcome 1
-+ Learning Outcome 2
++ Learning Outcomes 
++ Descriptions
 
 --- 
 
 ## Materials
 
-### The Foundations: Logic and Proof
+### Chapter 1: The Foundations: Logic and Proof
 
 ##### Lecture videos
 
@@ -49,7 +49,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Basic Structures: Sets, Functions, Sequences, Sums, and Matrices
+### Chapter 2: Basic Structures: Sets, Functions, Sequences, Sums, and Matrices
 
 ##### Lecture videos
 
@@ -68,7 +68,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Algorithms
+### Chapter 3: Algorithms
 
 ##### Lecture videos
 
@@ -84,7 +84,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Number Theory and Cryptography 
+### Chapter 4: Number Theory and Cryptography 
 
 ##### Lecture videos
 
@@ -103,7 +103,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Induction and Recursion
+### Chapter 5: Induction and Recursion
 
 ##### Lecture videos
 
@@ -121,7 +121,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Counting
+### Chapter 6: Counting
 
 ##### Lecture videos
 
@@ -140,7 +140,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Discrete Probability
+### Chapter 7: Discrete Probability
 
 ##### Lecture videos
 
@@ -157,7 +157,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Advanced Counting Techniques
+### Chapter 8: Advanced Counting Techniques
 
 ##### Lecture videos
 
@@ -176,7 +176,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Relations
+### Chapter 9: Relations
 
 ##### Lecture videos
 
@@ -195,7 +195,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Graphs
+### Chapter 10: Graphs
 
 ##### Lecture videos
 
@@ -216,7 +216,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Trees
+### Chapter 11: Trees
 
 ##### Lecture videos
 
@@ -234,7 +234,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Boolean Algebra
+### Chapter 12: Boolean Algebra
 
 ##### Lecture videos
 
@@ -251,7 +251,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Modeling Computation
+### Chapter 13: Modeling Computation
 
 ##### Lecture videos
 

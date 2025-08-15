@@ -21,16 +21,16 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcome 1
-+ Learning Outcome 2
++ Learning Outcomes 
++ Descriptions
 
 ---
 
 ## Materials
 
-### What is Data Science?
+### Chapter 1: What is Data Science?
 
-#### 1: What You Can Do with Data Science
+#### 1-1: What You Can Do with Data Science
 
 ##### Lecture videos
 
@@ -44,7 +44,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 2: Testing Your Model
+#### 1-2: Testing Your Model
 
 ##### Lecture videos
 
@@ -55,7 +55,7 @@ disableAnchoredHeadings: false
 1. [Offline Model Testing]()
 2. [Online Model Testing]()
 
-#### 3: Understanding AI
+#### 1-3: Understanding AI
 
 ##### Lecture videos
 
@@ -70,9 +70,9 @@ disableAnchoredHeadings: false
 
 ---
 
-### Building and Sustaining a Team
+### Chapter 2: Building and Sustaining a Team
 
-#### 4: An Ideal Data Science Team
+#### 2-4: An Ideal Data Science Team
 
 ##### Lecture videos
 
@@ -85,7 +85,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 5: Conducting Data Science Interview
+#### 2-5: Conducting Data Science Interview
 
 ##### Lecture videos
 
@@ -99,7 +99,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 6: Building Your Data Science Team
+#### 2-6: Building Your Data Science Team
 
 ##### Lecture videos
 
@@ -116,9 +116,9 @@ disableAnchoredHeadings: false
 
 ---
 
-### Managing Various Data Science Projects
+### Chapter 3: Managing Various Data Science Projects
 
-#### 7:　Managing Innovation
+#### 3-7:　Managing Innovation
 
 ##### Lecture videos
 
@@ -136,7 +136,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 8: Managing Data Science Projects
+#### 3-8: Managing Data Science Projects
 
 ##### Lecture videos
 
@@ -153,7 +153,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 9: Common Pitfalls of Data Science Projects
+#### 3-9: Common Pitfalls of Data Science Projects
 
 ##### Lecture videos
 
@@ -168,7 +168,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 10: Creating Products and Improving Reusability
+#### 3-10: Creating Products and Improving Reusability
 
 ##### Lecture videos
 
@@ -185,9 +185,9 @@ disableAnchoredHeadings: false
 
 ---
 
-### Creating a Development Infrastucture
+### Chapter 4: Creating a Development Infrastucture
 
-#### 11: Implementing ModelOps
+#### 4-11: Implementing ModelOps
 
 ##### Lecture videos
 
@@ -209,7 +209,7 @@ disableAnchoredHeadings: false
 
 ##### Readings
 
-#### 11: Building Your Technology Stack
+#### 4-12: Building Your Technology Stack
 
 ##### Lecture videos
 

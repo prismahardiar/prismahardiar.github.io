@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcome 1
-+ Learning Outcome 2
++ Learning Outcomes 
++ Descriptions
 
 ---
 
 ## Materials
 
-### Indeterminate Forms and Improper Integrals
+### Chapter 8: Indeterminate Forms and Improper Integrals
 
 ##### Lecture videos
 
@@ -45,8 +45,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-
-### Infinite Series
+### Chapter 9: Infinite Series
 
 ##### Lecture videos
 
@@ -68,7 +67,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Conics and Polar Coordinates
+### Chapter 10: Conics and Polar Coordinates
 
 ##### Lecture videos
 
@@ -88,7 +87,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Geometry in Space and Vectors
+### Chapter 11: Geometry in Space and Vectors
 
 ##### Lecture videos
 
@@ -110,7 +109,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Derivatives for Functions of Two or More Variables
+### Chapter 12: Derivatives for Functions of Two or More Variables
 
 ##### Lecture videos
 
@@ -132,7 +131,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Multiple Integrals
+### Chapter 13: Multiple Integrals
 
 ##### Lecture videos
 
@@ -154,7 +153,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Vector Calculus
+### Chapter 14: Vector Calculus
 
 ##### Lecture videos
 
@@ -173,7 +172,6 @@ disableAnchoredHeadings: false
 ##### Readings
 
 ##### Homework
-
 
 ---
 

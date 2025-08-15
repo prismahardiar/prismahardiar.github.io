@@ -21,14 +21,14 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-+ Learning Outcome 1
-+ Learning Outcome 2
++ Learning Outcomes 
++ Descriptions
 
 ---
 
 ## Materials
 
-### Preliminaries
+### Chapter 1: Preliminaries
 
 ##### Lecture videos
 
@@ -51,7 +51,7 @@ disableAnchoredHeadings: false
 ##### Homework
 
 
-### Limits
+### Chapter 2: Limits
 
 ##### Lecture videos
 
@@ -71,7 +71,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### The Derivative
+### Chapter 3: The Derivative
 
 ##### Lecture videos
 
@@ -95,7 +95,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Applications of the Derivative
+### Chapter 4: Applications of the Derivative
 
 ##### Lecture videos
 
@@ -118,7 +118,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### The Definite Integral
+### Chapter 5: The Definite Integral
 
 ##### Lecture videos
 
@@ -137,7 +137,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Applications of the Integral
+### Chapter 6: Applications of the Integral
 
 ##### Lecture videos
 
@@ -157,7 +157,7 @@ disableAnchoredHeadings: false
 
 ##### Homework
 
-### Techniques of Integration and Differential Equations
+### Chapter 7: Techniques of Integration and Differential Equations
 
 ##### Lecture videos
 
