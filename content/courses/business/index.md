@@ -8,7 +8,7 @@ author: "Prismahardi Aji Riyantoko"
 description: "This undergraduate course presents business data modeling" 
 summary: "This undergraduate course presents business data modeling that emphasizes the basic of business, variation of data business, generate a model using mathematical theory" 
 cover:
-    image: "business.png"
+    image: ""
     alt: "Business Data Modelling"
     relative: false
 editPost:

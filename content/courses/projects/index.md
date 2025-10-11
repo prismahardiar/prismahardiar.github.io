@@ -1,5 +1,5 @@
 ---
-title: "Fundamental of Designing Data Science Project"
+title: "Data Science Project"
 date: 
 aliases: 
     - /courses/projects/
@@ -8,12 +8,12 @@ author: "Prismahardi Aji Riyantoko"
 description: "This undergraduate course presents mathematical theory for data science" 
 summary: "This undergraduate course presents mathematical concepts that emphasizes the theoritical of limit, function, differential, and integral" 
 cover:
-    image: "project.png"
-    alt: "Mathemathics for Data Science I"
+    image: ""
+    alt: "Data Science Project"
     relative: false
 editPost:
     URL: "https://prismahardiar.github.io"
-    Text: "Mathematics for Data Science 1"
+    Text: "Data Science Project"
 showToc: true
 disableAnchoredHeadings: false
 
