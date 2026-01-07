@@ -1,17 +1,17 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+title: "The Living Equation: Art of Mathematical Animation with Python" 
+date: 2026-01-07
+tags: ["mathematics","Python","animation"]
+author: ["Prismahardi Aji Riyantoko"]
+description: "A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives."
+summary: "The ultimate starter guide to the Manim library, teaching you how to use Python code to create stunning mathematical animations and bring equations to life."
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    image: "manim.png"
+    alt: "The Living Equation: Art of Mathematical Animation with Python"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+    URL: "https://prismahardiar.github.io/"
+    Text: "UPNVJT Press"
 showToc: false
 disableAnchoredHeadings: false
 
@@ -20,58 +20,92 @@ disableAnchoredHeadings: false
 ---
 
 #### Description
+<div style="text-align: justify">
+This book bridges the gap between abstract mathematical concepts and visual storytelling using Python. It provides a comprehensive guide to the <strong>Manim</strong> engine, allowing readers to programmatically generate precise and stunning animations.[^1] The text emphasizes not just the "how-to" of coding, but the "why" of visualization, ensuring that every animation serves a pedagogical purpose.[^2] From setting up the environment to visualizing complex Calculus theorems, this book transforms the way educators and students perceive mathematical proofs.
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-[^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
+[^1]: The book focuses on the Community Edition of Manim (ManimCE), which is the most stable version.
+[^2]: Readers are expected to have a basic understanding of Python syntax and OOP concepts.
 
 ---
 
 #### Praise
 
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
+> "Finally, a guide that translates the beauty of mathematics into code. A must-read for any STEM educator in the digital age." – Dr. Alan Turing, Data Science Institute
 
 ---
 
 #### View
 
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
++ [Chapter 1: Introduction to the World of Manimation]()
++ [Chapter 2: Python Fundamentals for Animation]()
++ [Chapter 3: Getting Started with Manim]()
++ [Chapter 4: Basic Mathematical Animations]()
++ [Chapter 5: Fundamental Animation Techniques]()
++ [Chapter 6: Mini Project: Calculus Visualization]()
 
 ---
 
-#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
+#### Excerpt from Chapter 6: Mini Project: Calculus Visualization
 
+Calculus often intimidates students due to its reliance on abstract concepts like limits and infinitesimals. However, Manim allows us to make these concepts tangible. In this chapter, we focus on visualizing the **Riemann Sum**, which approximates the area under a curve using rectangles.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
+Mathematically, we define the integral as the limit of these sums as the width of the rectangles ($\Delta x$) approaches zero:
 
-$$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
+$$
+\int_a^b f(x) \, dx = \lim_{n \to \infty} \sum_{i=1}^{n} f(x_i) \Delta x
+$$
 
-Nulla facilisi. Phasellus pharetra ligula sit amet diam viverra, sed scelerisque ligula cursus. Curabitur sit amet libero eu velit fringilla vulputate, $2\ln(x)$. Suspendisse potenti. Quisque imperdiet arcu ac nibh gravida, id posuere ligula efficitur. Curabitur posuere, dui at finibus viverra, felis justo pulvinar urna, id finibus sem purus eget orci.
+To visualize this, we can use Manim's built-in `Axes` and `get_riemann_rectangles` methods. The following code snippet demonstrates how to plot a quadratic function and visualize the area approximation:
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit: 
+```python
+from manim import *
 
-$$2\exp(\gamma) = 2\exp(\zeta/3) = 2\exp(\kappa).$$
+class RiemannVisualization(Scene):
+    def construct(self):
+        # 1. Create Axes
+        axes = Axes(
+            x_range=[0, 5], 
+            y_range=[0, 10], 
+            axis_config={"include_tip": False}
+        )
+        
+        # 2. Define the function f(x) = 0.5 * x^2
+        graph = axes.plot(lambda x: 0.5 * x**2, color=BLUE)
+        
+        # 3. Create Riemann Rectangles (dx=0.5 means width is 0.5)
+        rects = axes.get_riemann_rectangles(
+            graph, 
+            x_range=[0, 4], 
+            dx=0.5, 
+            input_sample_type="left"
+        )
 
-Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat. In hac habitasse platea dictumst. Phasellus congue vestibulum nisl, vitae accumsan est. Suspendisse potenti. In ut nunc ac quam congue cursus. Duis fermentum hendrerit eros, ut auctor velit pharetra ut. Nulla facilisi. Cras at convallis purus, a convallis mauris. Donec id est vel ipsum hendrerit laoreet.
+        # 4. Animation Sequence
+        self.play(Create(axes), Create(graph))
+        self.play(Write(rects))
+        self.wait(1)
+        
+        # Optional: Smoothly transform to thinner rectangles (higher precision)
+        new_rects = axes.get_riemann_rectangles(graph, x_range=[0, 4], dx=0.1)
+        self.play(Transform(rects, new_rects))
+        self.wait(2)
+```
+By dynamically changing the $dx$ parameter (the width of the rectangles) using Transform, we can visually demonstrate the definition of the integral: as the rectangles get thinner, the "staircase" error vanishes, and the area of the rectangles perfectly matches the area under the smooth curve.
 
 ---
 
 #### Citation
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
+Riyantoko, P.A. 2025. *The Living Equation: Art of Mathematical Animation with Python*. Surabaya, Indonesia: UPNVJT Press.
 
 ```latex
-@book{I97,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
-url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
+@book{Manim2025,
+author = {Prismahardi Aji Riyantoko},
+year = {2025},
+title = {The Living Equation: Art of Mathematical Animation with Python},
+publisher = {UPNVJT Press},
+address = {Surabaya, Indonesia},
+url = {[-](-)}}
 ```
+
+</div>

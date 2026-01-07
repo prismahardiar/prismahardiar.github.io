@@ -1,5 +1,5 @@
 baseURL: "https://prismahardiar.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Prismahardi Aji Riyantoko
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,27 +12,30 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 1
+        - name: Books
+          url: books/
+          weight: 2 
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 2
+        - name: Researchs
+          url: researchs/
+          weight: 4
         - name: Data
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 5 
+#        - name: Blog
+#          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#          weight: 6
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    author: Prismahardi Aji Riyantoko
+    googleAnalyticsID: "GTM-K7XM3GV6"
+    DateFormat: "January 2, 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -54,50 +57,52 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Prismahardi Aji Riyantoko
+          subtitle: "Mathematics and Data Science Enthusiast | Researcher | Educator"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
             - name: Books
               url: books/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: researchs/
+            - name: Data
+              url: data/
+  #          - name: Tags
+  #            url: tags/
+  #          - name: Archive
+  #            url: archive/
+  #          - name: Blog
+  #            url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: prismahardiar-cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:prismahardi.aji.ds@upnjatim.ac.id
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://meet.google.com/
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=AU-M4OwAAAAJ&hl=id
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/prismahardiar
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://prismahardiar.substack.com
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@prismahardiar
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/prismahardiar
+#        - name: Bluesky
+#          url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +110,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Prismahardi Aji Riyantoko"
       icon: favicon.ico
       iconHeight: 18
 

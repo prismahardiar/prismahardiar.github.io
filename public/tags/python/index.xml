@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Python on Moritz-Maria von Igelfeld</title>
-    <link>http://localhost:1313/hugo-website/tags/python/</link>
-    <description>Recent content in Python on Moritz-Maria von Igelfeld</description>
+    <title>Python on Prismahardi Aji Riyantoko</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Living Equation: Art of Mathematical Animation with Python</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.</description>
+    </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/hugo-website/data/data1/</link>
+      <link>http://localhost:1313/data/data1/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
   </channel>

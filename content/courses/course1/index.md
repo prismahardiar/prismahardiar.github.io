@@ -1,120 +1,358 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
-cover:
-    image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
-    relative: true
+title: "Mathematics for Data Science"
+date: 2026-01-07
+tags: ["mathematics","calculus","limits","derivatives","integrals","series","multivariable calculus","vector calculus"]
+author: "Prismahardi Aji Riyantoko"
+description: "This course develops the calculus and analysis foundations behind data science, from functions and limits to differentiation, integration, and approximation in one and several variables."
+summary: "This course covers limits, differentiation, integration, infinite series, and multivariable/vector calculus, emphasizing the mathematical foundations used in modeling, approximation, and optimization for data science."
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://prismahardiar.github.io/"
+    Text: "Mathematics for Data Science"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
+<div style="text-align: justify">
+
+## Objectives learning
+
+1. **Modeling & Reasoning:** Students can model data-driven phenomena with functions and calculus analyzing behavior (limits, continuity), change (derivatives), and accumulation (integrals) and interpret results correctly in real-world contexts.
+
+2. **Approximation, Optimization & Geometry in Higher Dimensions:** Students can apply advanced calculus tools (series/Taylor approximation, integration techniques, basic differential equations, multivariable and vector calculus, and multiple integrals) to solve optimization problems, produce reliable approximations, and analyze geometric structures relevant to data science.
+
+
 ## Introduction
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+Mathematics for Data Science is a undergraduate-level course that builds the calculus and analytic foundations used to model data, quantify change, and reason about complex systems. Beginning with real-number reasoning, inequalities, coordinate geometry, and the major families of functions (including exponential/logarithmic and trigonometric forms), the course develops limits and continuity as a rigorous language for approximation and stability. It then advances to differentiation as a framework for sensitivity analysis, curve behavior, and optimization, and to integration as a theory of accumulation with both analytic and numerical methods, including applications to geometry and physical quantities. The course also addresses differential equations, indeterminate forms, and improper integrals to handle growth, edge behavior, and systems without closed-form solutions, and it builds approximation power through sequences, series, and Taylor expansions. Finally, it moves into higher dimensions through vectors and multivariable calculus, covering gradients, constrained optimization, multiple integrals with change of variables, and the vector calculus theorems (Green, Gauss, and Stokes) that connect local structure to global behavior providing a coherent mathematical toolkit that underpins modern data science.
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Part 1: Review of Romance languages
-
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Chapter 1: Preliminaries
 
 ##### Lecture videos
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
 
 ##### Lecture notes
 
-+ [Lecture note 1](lecture1.pdf)
++ [Lecture note 1]()
 
-##### Readings
+##### Topics
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read. (Further results are in the [online appendix](https://pascalmichaillat.org/1a.pdf).)
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
++ [Real Numbers, Estimation, and Logic]()
++ [Inqualities and Absolute Values]()
++ [The Rectangular Coordinate System]()
++ [Graphs of Equations]()
++ [Functions and Their Graphs]()
++ [Operations on Functions]()
++ [Exponential and Logarithmic Functions]()
++ [The Trigonometric Functions]()
++ [The Inverse Trigonometric Functions]()
 
-## Part 2: Portugese irregular verbs
+---
 
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Chapter 2: Limits
 
 ##### Lecture videos
 
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8) - Short overview of the Portugese language.
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8) - History of irregular verbs.
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0) - Main Portugese irregular verbs.
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
 
 ##### Lecture notes
 
-+ [Lecture note 2](lecture2.pdf)
++ [Lecture note 1]()
 
-##### Readings
+##### Topics
 
-+ [Paper 4](https://pascalmichaillat.org/3.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/3a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/5.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/5a.pdf) contains long proofs and extensions of the results.)
++ [Introduction to Limits]()
++ [Rigorous Study of Limits]()
++ [Limit Theorems]()
++ [Limits at Infinity, Infinite Limits]()
++ [Limits Involving Trigonometric Functions]()
++ [Natural Exponential, Natural Log, and Hyperbolic Functions]()
++ [Continuity of Functions]()
 
+---
 
-## Part 3: Spanish irregular verbs
-
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+## Chapter 3: The Derivative
 
 ##### Lecture videos
 
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
 
-##### Basic readings
+##### Lecture notes
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf) ([online appendix](https://pascalmichaillat.org/10a.pdf))
-+ [Paper 7](https://pascalmichaillat.org/11.pdf) ([online appendix](https://pascalmichaillat.org/11a.pdf))
++ [Lecture note 1]()
 
-##### Advanced readings
+##### Topics
 
-+ [Paper 8](https://pascalmichaillat.org/12.pdf)
-+ [Paper 9](https://pascalmichaillat.org/13.pdf)
++ [Two Problems with One Theme]()
++ [The Derivative]()
++ [Rules for Finding Derivatives]()
++ [Derivatives of Trigonometric Functions]()
++ [The Chain Rule]()
++ [Higher-Order Derivatives]()
++ [Implicit Differentiation]()
++ [Related Rates]()
++ [Derivatives of Exponential and Logarithmic Functions]()
++ [Derivatives of Hyperbolic and Inverse Trigonometric Functions]()
++ [Differentials and Approximations]()
+
+---
+
+## Chapter 4: Applications of the Derivative
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Maxima and Minima]()
++ [Monotonicity and Concavity]()
++ [Local Extrema and Extrema on Open Intervals]()
++ [Practical Problems]()
++ [Graphing Functions Using Calculus]()
++ [The Mean Value Theorem for Derivatives]()
++ [Solving Equations Numerically]()
++ [Antiderivatives]()
++ [Introduction to Differential Equations]()
++ [Exponential Growth and Decay]()
+
+---
+
+## Chapter 5: The Definite Integral
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Introduction to Area]()
++ [The Definite Integral]()
++ [The First Fundamental Theorem of Calculus]()
++ [The Second Fundamental Theorem of Calculus and the Method of Substitution]()
++ [The Mean Value Theorem for Integrals and the Use of Symmetry]()
++ [Numerical Integration]()
+
+---
+
+## Chapter 6: Application of the Integral
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [The Area of a Plane Region]()
++ [Volumes of Solids: Slabs, Disks, Washers]()
++ [Volumes of Solids of Revolution: Shells]()
++ [Length of a Plane Curve]()
++ [Work and Fluid Force]()
++ [Moments and Center of Mass]()
++ [Probability and Random Variables]()
+
+---
+
+## Chapter 7: Techniques of Integration and Differential Equations
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Basic Integration Rules]()
++ [Integration by Parts]()
++ [Some Trigonometric Integrals]()
++ [Rationalizing Substitutions]()
++ [Integration of Rational Functions Using Partial Fractions]()
++ [Strategies for Integration]()
++ [First-Order Linear Differential Equations]()
++ [Approximations for Differential Equations]()
+
+---
+
+## Chapter 8: Indeterminate Forms and Improper Integrals
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Indeterminate Forms of Type 0/0]()
++ [Other Indeterminate Forms]()
++ [Improper Integrals: Infinite Limits of Integration]()
++ [Improper Integrals: Infinite Integrands]()
+
+---
+
+## Chapter 9: Infinite Series
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Infinite Sequences]()
++ [Infinite Series]()
++ [Positive Series: The Integral Test]()
++ [Positive Series: Other Tests]()
++ [Alternating Series, Absolute Convergence, and Conditional Convergence]()
++ [Power Series]()
++ [Operations on Power Series]()
++ [Taylor and Maclaurin Series]()
++ [The Taylor Approximation to a Function]()
+
+---
+
+## Chapter 10: Conics and Polar Coordinates
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [The Parabola]()
++ [Ellipses and Hyperbolas]()
++ [Translation and Rotation of Axes]()
++ [Parametric Representation of Curves in the Plane]()
++ [The Polar Coordinate System]()
++ [Graphs of Polar Equations]()
++ [Calculus in Polar Coordinates]()
+
+---
+
+## Chapter 11: Geometry in Space and Vectors
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Cartesian Coordinates in Three-Space]()
++ [Vectors]()
++ [The Dot Product]()
++ [The Cross Product]()
++ [Vector-Valued Functions and Curvilinear Motion]()
++ [Lines and Tangent Lines in Three-Space]()
++ [Curvature and Components of Acceleration]()
++ [Surfaces in Three-Space]()
++ [Cylindrical and Spherical Coordinates]()
+
+---
+
+## Chapter 12: Derivatives for Functions of Two or More Variables
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Functions of Two or More Variables]()
++ [Partial Derivatives]()
++ [Limits and Continuity]()
++ [Differentiability]()
++ [Directional Derivatives and Gradients]()
++ [The Chain Rule]()
++ [Tangent Planes and Approximations]()
++ [Maxima and Minima]()
++ [The Method of Lagrange Multipliers]()
+
+---
+
+## Chapter 13: Multiple Integrals
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Double Integrals over Rectangles]()
++ [Iterated Integrals]()
++ [Double Integrals over Nonrectangular Regions]()
++ [Double Integrals in Polar Coordinates]()
++ [Applications of Double Integrals]()
++ [Surface Area]()
++ [Triple Integrals in Cartesian Coordinates]()
++ [Triple Integrals in Cylindrical and Spherical Coordinates]()
++ [Change of Variables in Multiple Integrals]()
+
+---
+
+## Chapter 14: Vector Calculus
+
+##### Lecture videos
+
++ [Lecture video 1](https://www.youtube.com/@prismahardiar) – This is a first lecture video.
+
+##### Lecture notes
+
++ [Lecture note 1]()
+
+##### Topics
+
++ [Vector Fields]()
++ [Line Integrals]()
++ [Independence of Path]()
++ [Green’s Theorem in the Plane]()
++ [Surface Integrals]()
++ [Gauss’s Divergence Theorem]()
++ [Stokes’s Theorem]()
 
 ## Conclusion
 
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
+By the end of this course, calculus becomes a single, connected toolkit spanning limits, derivatives, integrals, series, and multivariable/vector methods for turning questions about data into quantitative statements you can analyze. You will be able to justify approximations, solve optimization and accumulation problems in one and many dimensions, and interpret the geometry that sits behind modern modeling.
 
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+- **Rigor + reliability:** Real numbers, functions, limits, and continuity give you controlled reasoning about growth, stability, and edge cases (including indeterminate forms and improper integrals).
+- **Geometry + structure in higher dimensions:** Gradients, multiple integrals, and the big integral theorems (Green/Gauss/Stokes) connect local behavior to global quantities such as flux, circulation, and conservation.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> “Truth is much too complicated to allow anything but approximations.” — John von Neumann
 
+</div>

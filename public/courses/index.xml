@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on Moritz-Maria von Igelfeld</title>
-    <link>http://localhost:1313/hugo-website/courses/</link>
-    <description>Recent content in Courses on Moritz-Maria von Igelfeld</description>
+    <title>Courses on Prismahardi Aji Riyantoko</title>
+    <link>http://localhost:1313/courses/</link>
+    <description>Recent content in Courses on Prismahardi Aji Riyantoko</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Mar 2003 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/hugo-website/courses/course1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course1/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>Profanity in Early Irish</title>
-      <link>http://localhost:1313/hugo-website/courses/course2/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course discusses profanity in Early Irish.</description>
+      <title>Mathematics for Data Science</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This course develops the calculus and analysis foundations behind data science, from functions and limits to differentiation, integration, and approximation in one and several variables.</description>
     </item>
   </channel>
 </rss>
