@@ -32,7 +32,7 @@ menu:
 #          weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Prismahardi Aji Riyantoko's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Prismahardi Aji Riyantoko
     googleAnalyticsID: "GTM-K7XM3GV6"
     DateFormat: "January 2, 2006"
@@ -58,8 +58,8 @@ params:
     profileMode:
           enabled: true
           title: Prismahardi Aji Riyantoko
-          subtitle: "Mathematics and Data Science Enthusiast | Researcher | Educator"
-          imageUrl: "picture.jpeg"
+          subtitle: "Mathematics and Data Science Lecturer at UPNVJT"
+          imageUrl: "prisma.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
