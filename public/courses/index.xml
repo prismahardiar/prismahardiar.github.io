@@ -1,74 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on Prismahardi Aji Riyantoko</title>
-    <link>http://localhost:1313/courses/</link>
-    <description>Recent content in Courses on Prismahardi Aji Riyantoko</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <title>Courses on Moritz-Maria von Igelfeld</title>
+    <link>http://localhost:1313/hugo-website/courses/</link>
+    <description>Recent content in Courses on Moritz-Maria von Igelfeld</description>
+    <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2003 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Business Data Modelling</title>
-      <link>http://localhost:1313/courses/business/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/business/</guid>
-      <description>This undergraduate course presents business data modeling</description>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/hugo-website/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
-      <title>Data Science Project</title>
-      <link>http://localhost:1313/courses/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/projects/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Discrete Mathematics</title>
-      <link>http://localhost:1313/courses/discrete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/discrete/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Introduction to Statistics</title>
-      <link>http://localhost:1313/courses/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/statistics/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Linear Algebra</title>
-      <link>http://localhost:1313/courses/algebra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/algebra/</guid>
-      <description>This undergraduate course presents business data modeling</description>
-    </item>
-    <item>
-      <title>Mathematics for Data Science I</title>
-      <link>http://localhost:1313/courses/msd1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/msd1/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Mathematics for Data Science II</title>
-      <link>http://localhost:1313/courses/msd2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/msd2/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Numerical Analysis</title>
-      <link>http://localhost:1313/courses/numerical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/numerical/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>People Analytics</title>
-      <link>http://localhost:1313/courses/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/people/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/hugo-website/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>
 </rss>

@@ -9,9 +9,9 @@ author: ["Course Author 1", "Course Author 2"]
 description: "Course description for search engines (less than 155 characters)" 
 summary: "Course summary for list page (less than 265 characters)
 cover:
-    image: "/course_figure.png"
-    alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
-    relative: false
+    image: "course_figure.png"
+    alt: "Figure title (preferably 1280x720 pixels)"
+    relative: true
 editPost:
     URL: "https://youtube.com/course_playlist"
     Text: "YouTube playlist"

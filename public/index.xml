@@ -1,145 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prismahardi Aji Riyantoko</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Prismahardi Aji Riyantoko</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <title>Moritz-Maria von Igelfeld</title>
+    <link>http://localhost:1313/hugo-website/</link>
+    <description>Recent content on Moritz-Maria von Igelfeld</description>
+    <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
-      <description>Prismahardi Aji Riyantoko&amp;#39;s mailing and office addresses at the UPN Veteran Jawa Timur</description>
+      <link>http://localhost:1313/hugo-website/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
-      <description>Schedule and location for Prismahardi Aji Riyantoko&amp;#39;s office hours.</description>
+      <link>http://localhost:1313/hugo-website/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <title>Your Inner Hedgehog</title>
+      <link>http://localhost:1313/hugo-website/papers/paper3/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
+      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
-      <title>Business Data Modelling</title>
-      <link>http://localhost:1313/courses/business/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/business/</guid>
-      <description>This undergraduate course presents business data modeling</description>
-    </item>
-    <item>
-      <title>Calculus for Data Science</title>
-      <link>http://localhost:1313/books/calculus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/calculus/</guid>
-      <description>This book presents a mathematics vs. animations</description>
-    </item>
-    <item>
-      <title>Data Science Project</title>
-      <link>http://localhost:1313/courses/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/projects/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>DataHub</title>
-      <link>http://localhost:1313/data/data1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/hugo-website/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
-      <title>Discrete Mathematics</title>
-      <link>http://localhost:1313/courses/discrete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/discrete/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
+      <title>Unusual Uses For Olive Oil</title>
+      <link>http://localhost:1313/hugo-website/papers/paper1/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/papers/paper1/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
-      <title>Introduction to Statistics</title>
-      <link>http://localhost:1313/courses/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/statistics/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>http://localhost:1313/hugo-website/papers/paper2/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
-      <title>Learning Management Systems</title>
-      <link>http://localhost:1313/researchs/learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/learning/</guid>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/hugo-website/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
-      <title>Linear Algebra</title>
-      <link>http://localhost:1313/courses/algebra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/algebra/</guid>
-      <description>This undergraduate course presents business data modeling</description>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/hugo-website/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
-      <title>Mathematics for Data Science I</title>
-      <link>http://localhost:1313/courses/msd1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/msd1/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Mathematics for Data Science II</title>
-      <link>http://localhost:1313/courses/msd2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/msd2/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Matrix-Quantum Computation</title>
-      <link>http://localhost:1313/researchs/matrix/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/matrix/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>Numerical Analysis</title>
-      <link>http://localhost:1313/courses/numerical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/numerical/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>People Analytics</title>
-      <link>http://localhost:1313/courses/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/people/</guid>
-      <description>This undergraduate course presents mathematical theory for data science</description>
-    </item>
-    <item>
-      <title>Renewable Energy</title>
-      <link>http://localhost:1313/researchs/energy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/energy/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>UAV</title>
-      <link>http://localhost:1313/researchs/uav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/uav/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>Writing Documents using LaTex</title>
-      <link>http://localhost:1313/books/latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/latex/</guid>
-      <description>This book presents a mathematics vs. animations</description>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/hugo-website/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>
 </rss>

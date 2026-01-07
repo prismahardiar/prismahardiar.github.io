@@ -8,6 +8,7 @@
     min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
     font-size: var(--homesize);
     line-height: var(--lineheight);
+    padding: var(--gap);
 }
 
 .profile .profile_inner {
@@ -18,11 +19,12 @@
 }
 
 .profile .profile_inner h1 {
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 .profile img {
     border-radius: 50%;
+    border: 1px solid var(--tertiary);
 }
 
 .buttons {
@@ -32,9 +34,8 @@
 .button {
     background: var(--tertiary);
     border-radius: var(--radius);
-    margin: 8px 16px 8px 0px;
-    padding: 6px;
-    transition: transform 0.1s;
+    margin: 6px 12px 6px 0px;
+    padding: 10px;
 }
 
 .button-inner {

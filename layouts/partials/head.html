@@ -8,7 +8,15 @@
 {{- end }}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+<title>
+  {{- if eq .Kind "404" -}}
+    404: Page not found | {{ .Site.Title }}
+  {{- else if and (not .IsHome) .Title -}}
+    {{ .Title }} | {{ .Site.Title }}
+  {{- else -}}
+    {{ .Site.Title }}
+  {{- end -}}
+</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
@@ -133,9 +141,9 @@
     {{- end }}
 </noscript>
 
-{{- template "partials/templates/opengraph.html" . }}
-{{- template "partials/templates/twitter_cards.html" . }}
-{{- template "partials/templates/schema_json.html" . }}
+{{- partial "templates/opengraph.html" . }}
+{{- partial "templates/twitter_cards.html" . }}
+{{- partial "templates/schema_json.html" . }}
 
 {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
 {{- partial "analytics.html" . }}

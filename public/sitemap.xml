@@ -2,124 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/location/</loc>
-    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/location/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
-    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/officehours/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/history-of-oil/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/academia/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mediterranean-world/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/experimental-psychology/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/oleic-science/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/inner-hedgehog/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/invasive-thoughts/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philology/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/papers/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/social-psychology/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/algebra/</loc>
+    <loc>http://localhost:1313/hugo-website/papers/paper3/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/animation/</loc>
+    <loc>http://localhost:1313/hugo-website/data/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/applications/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/dataset/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/french/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/irregular-verbs/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/business/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/italian/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/business/</loc>
+    <loc>http://localhost:1313/hugo-website/data/data1/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/calculus/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/philology/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/portuguese/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/researchs/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/python/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/romance-languages/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/simulations/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data/data1/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/spanish/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dataset/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/history-of-oil/</loc>
+    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/derivatie/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/mediterranean-world/</loc>
+    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/differential/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/oleic-science/</loc>
+    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/discrete/</loc>
+    <loc>http://localhost:1313/hugo-website/papers/paper1/</loc>
+    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/french/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/canine-pulmonary-efficiency/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/function/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/canine-science/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/projects/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/experimental-zoology/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/integral/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/sausage-dogs/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/statistics/</loc>
+    <loc>http://localhost:1313/hugo-website/papers/paper2/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/zoology/</loc>
+    <lastmod>2004-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/italian/</loc>
+    <loc>http://localhost:1313/hugo-website/courses/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/researchs/learning/</loc>
+    <loc>http://localhost:1313/hugo-website/courses/course1/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/limits/</loc>
+    <loc>http://localhost:1313/hugo-website/books/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/algebra/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/portugese/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mathematics/</loc>
+    <loc>http://localhost:1313/hugo-website/books/book1/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/msd1/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/celtic-languages/</loc>
+    <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/msd2/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/irish/</loc>
+    <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/matrix/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/language-modernization/</loc>
+    <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/researchs/matrix/</loc>
+    <loc>http://localhost:1313/hugo-website/tags/profanity/</loc>
+    <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/model/</loc>
+    <loc>http://localhost:1313/hugo-website/courses/course2/</loc>
+    <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/numerical/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/optimization/</loc>
-  </url><url>
-    <loc>http://localhost:1313/courses/people/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/portuguese/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-  </url><url>
-    <loc>http://localhost:1313/researchs/energy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/romance-languages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/simulations/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/spanish/</loc>
-  </url><url>
-    <loc>http://localhost:1313/researchs/uav/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/vector/</loc>
-  </url><url>
-    <loc>http://localhost:1313/books/latex/</loc>
+    <loc>http://localhost:1313/hugo-website/archive/</loc>
   </url>
 </urlset>

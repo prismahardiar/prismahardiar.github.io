@@ -9,9 +9,9 @@ author: ["Paper Author 1", "Paper Author 2"]
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "Paper summary for list page (less than 265 characters)"
 cover:
-    image: "/paper_figure.png"
-    alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
-    relative: false
+    image: "paper_figure.png"
+    alt: "Figure title (preferably 1280x720 pixels)"
+    relative: true
 editPost:
     URL: "https://doi.org/paper_doi"
     Text: "Journal/Repository Name"
