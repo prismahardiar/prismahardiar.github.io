@@ -30,7 +30,7 @@ This book bridges the gap between abstract mathematical concepts and visual stor
 
 #### Praise
 
-> "Finally, a guide that translates the beauty of mathematics into code. A must-read for any STEM educator in the digital age." – Dr. Alan Turing, Data Science Institute
+> “Mathematics is the art of giving the same name to different things.” — Henri Poincaré
 
 ---
 
