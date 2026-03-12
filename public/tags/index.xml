@@ -16,10 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Barren Plateau</title>
-      <link>http://localhost:1313/tags/barren-plateau/</link>
+      <title>Autonomous Systems</title>
+      <link>http://localhost:1313/tags/autonomous-systems/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/barren-plateau/</guid>
+      <guid>http://localhost:1313/tags/autonomous-systems/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +37,17 @@
       <description></description>
     </item>
     <item>
-      <title>Hybrid Quantum-Classical</title>
-      <link>http://localhost:1313/tags/hybrid-quantum-classical/</link>
+      <title>Federated Learning</title>
+      <link>http://localhost:1313/tags/federated-learning/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hybrid-quantum-classical/</guid>
+      <guid>http://localhost:1313/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formal Verification</title>
+      <link>http://localhost:1313/tags/formal-verification/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/formal-verification/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <link>http://localhost:1313/tags/integrals/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/integrals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Layer-Wise Learning</title>
-      <link>http://localhost:1313/tags/layer-wise-learning/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/layer-wise-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -72,10 +72,31 @@
       <description></description>
     </item>
     <item>
+      <title>Multi-Agent Robotics</title>
+      <link>http://localhost:1313/tags/multi-agent-robotics/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/multi-agent-robotics/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Multivariable Calculus</title>
       <link>http://localhost:1313/tags/multivariable-calculus/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/multivariable-calculus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physical AI</title>
+      <link>http://localhost:1313/tags/physical-ai/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/physical-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post-Quantum Cryptography</title>
+      <link>http://localhost:1313/tags/post-quantum-cryptography/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/post-quantum-cryptography/</guid>
       <description></description>
     </item>
     <item>
@@ -86,24 +107,17 @@
       <description></description>
     </item>
     <item>
-      <title>Quantum Machine Learning</title>
-      <link>http://localhost:1313/tags/quantum-machine-learning/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quantum-machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quantum Neural Networks</title>
-      <link>http://localhost:1313/tags/quantum-neural-networks/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quantum-neural-networks/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Series</title>
       <link>http://localhost:1313/tags/series/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transactive Energy</title>
+      <link>http://localhost:1313/tags/transactive-energy/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/transactive-energy/</guid>
       <description></description>
     </item>
     <item>
@@ -202,6 +216,76 @@
       <link>http://localhost:1313/tags/spanish/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/spanish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barren Plateau</title>
+      <link>http://localhost:1313/tags/barren-plateau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/barren-plateau/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Twin</title>
+      <link>http://localhost:1313/tags/digital-twin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-twin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Computing</title>
+      <link>http://localhost:1313/tags/edge-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Quantum-Classical</title>
+      <link>http://localhost:1313/tags/hybrid-quantum-classical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hybrid-quantum-classical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Renewable Energy</title>
+      <link>http://localhost:1313/tags/hybrid-renewable-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hybrid-renewable-energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Layer-Wise Learning</title>
+      <link>http://localhost:1313/tags/layer-wise-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/layer-wise-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computing</title>
+      <link>http://localhost:1313/tags/quantum-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>http://localhost:1313/tags/quantum-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Neural Networks</title>
+      <link>http://localhost:1313/tags/quantum-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tri-Domain Swarm</title>
+      <link>http://localhost:1313/tags/tri-domain-swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tri-domain-swarm/</guid>
       <description></description>
     </item>
   </channel>

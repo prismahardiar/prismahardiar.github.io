@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A.E.G.I.S.: Autonomous Ecosystem Guardian and Integrated Systems</title>
+      <link>http://localhost:1313/researchs/research1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/research1/</guid>
+      <description>A seven-year research program building a fully autonomous, post-quantum secured, tri-domain robotic ecosystem capable of self-sustaining energy management, formal safety verification, and confidential edge computation.</description>
+    </item>
+    <item>
       <title>Mathematics for Data Science</title>
       <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/course1/</guid>
       <description>This course develops the calculus and analysis foundations behind data science, from functions and limits to differentiation, integration, and approximation in one and several variables.</description>
-    </item>
-    <item>
-      <title>Mitigating Barren Plateaus in Quantum Neural Networks (QNNs) via a Hybrid Quantum–Classical Architecture with Layer-Wise Learning</title>
-      <link>http://localhost:1313/researchs/research1/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchs/research1/</guid>
-      <description>This research proposal investigates how to mitigate barren plateaus in deep Quantum Neural Networks by introducing a hybrid quantum–classical architecture trained with layer-wise learning.</description>
     </item>
     <item>
       <title>The Living Equation: Art of Mathematical Animation with Python</title>
@@ -55,6 +55,13 @@
       <link>http://localhost:1313/data/data1/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/data1/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data2/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data2/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
   </channel>
