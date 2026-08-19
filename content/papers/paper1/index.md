@@ -15,7 +15,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](information-16-00607.pdf)
++ [Paper](https://www.mdpi.com/2078-2489/16/7/607)
 
 ---
 
