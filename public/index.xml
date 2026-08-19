@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prismahardi Aji Riyantoko</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Prismahardi Aji Riyantoko</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Proposal of Mathematics Problem Generation Tool Using Generative AI for STACK Online Assessment System</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>Published in the Mathematics 2026.</description>
+    </item>
+    <item>
+      <title>A.E.G.I.S.: Autonomous Ecosystem Guardian and Integrated Systems</title>
+      <link>http://localhost:1313/researchs/research1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/researchs/research1/</guid>
+      <description>A seven-year research program building a fully autonomous, post-quantum secured, tri-domain robotic ecosystem capable of self-sustaining energy management, formal safety verification, and confidential edge computation.</description>
+    </item>
+    <item>
+      <title>Mathematics for Data Science</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This course develops the calculus and analysis foundations behind data science, from functions and limits to differentiation, integration, and approximation in one and several variables.</description>
+    </item>
+    <item>
+      <title>The Living Equation: Art of Mathematical Animation with Python</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.</description>
+    </item>
+    <item>
+      <title>A Fundamental Statistics Self-Learning Method with Python Programming for Data Science Implementations</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Published in the Information 2025.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Prismahardi Aji Riyantoko&amp;#39;s mailing and office addresses at the Universitas Pembangunan Nasional Veteran Jawa Timur</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Prismahardi Aji Riyantoko&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data2/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data2/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+  </channel>
+</rss>

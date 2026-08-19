@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>The Living Equation: Art of Mathematical Animation with Python | Prismahardi Aji Riyantoko</title>
+<meta name="keywords" content="mathematics, Python, animation">
+<meta name="description" content="A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.">
+<meta name="author" content="Prismahardi Aji Riyantoko">
+<link rel="canonical" href="http://localhost:1313/books/book1/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.ac30954b7ea20660ca1cb473400ecede9e601f17674446536180d3ca00f03328.css" integrity="sha256-rDCVS36iBmDKHLRzQA7O3p5gHxdnREZTYYDTygDwMyg=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/books/book1/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/books/book1/">
+  <meta property="og:site_name" content="Prismahardi Aji Riyantoko">
+  <meta property="og:title" content="The Living Equation: Art of Mathematical Animation with Python">
+  <meta property="og:description" content="A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="books">
+    <meta property="article:published_time" content="2026-01-07T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-01-07T00:00:00+00:00">
+    <meta property="article:tag" content="Mathematics">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="Animation">
+    <meta property="og:image" content="http://localhost:1313/books/book1/manim.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://localhost:1313/books/book1/manim.png">
+<meta name="twitter:title" content="The Living Equation: Art of Mathematical Animation with Python">
+<meta name="twitter:description" content="A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Books",
+      "item": "http://localhost:1313/books/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "The Living Equation: Art of Mathematical Animation with Python",
+      "item": "http://localhost:1313/books/book1/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Living Equation: Art of Mathematical Animation with Python",
+  "name": "The Living Equation: Art of Mathematical Animation with Python",
+  "description": "A comprehensive guide to entering the world of programmatic animation using Python and the Manim library. This book bridges the gap between abstract mathematical concepts and dynamic visual storytelling. Readers will master the essentials of the Manim engine—from setting up the environment and understanding coordinate systems to animating geometric proofs and functions. The journey culminates in a practical mini-project focused on visualizing fundamental Calculus concepts like limits and derivatives.",
+  "keywords": [
+    "mathematics", "Python", "animation"
+  ],
+  "articleBody": " Description This book bridges the gap between abstract mathematical concepts and visual storytelling using Python. It provides a comprehensive guide to the Manim engine, allowing readers to programmatically generate precise and stunning animations.[^1] The text emphasizes not just the \"how-to\" of coding, but the \"why\" of visualization, ensuring that every animation serves a pedagogical purpose.[^2] From setting up the environment to visualizing complex Calculus theorems, this book transforms the way educators and students perceive mathematical proofs. Praise “Mathematics is the art of giving the same name to different things.” — Henri Poincaré\nView Chapter 1: Introduction to the World of Manimation Chapter 2: Python Fundamentals for Animation Chapter 3: Getting Started with Manim Chapter 4: Basic Mathematical Animations Chapter 5: Fundamental Animation Techniques Chapter 6: Mini Project: Calculus Visualization Excerpt from Chapter 6: Mini Project: Calculus Visualization Calculus often intimidates students due to its reliance on abstract concepts like limits and infinitesimals. However, Manim allows us to make these concepts tangible. In this chapter, we focus on visualizing the Riemann Sum, which approximates the area under a curve using rectangles.\nMathematically, we define the integral as the limit of these sums as the width of the rectangles ($\\Delta x$) approaches zero:\n$$ \\int_a^b f(x) , dx = \\lim_{n \\to \\infty} \\sum_{i=1}^{n} f(x_i) \\Delta x $$\nTo visualize this, we can use Manim’s built-in Axes and get_riemann_rectangles methods. The following code snippet demonstrates how to plot a quadratic function and visualize the area approximation:\nfrom manim import * class RiemannVisualization(Scene): def construct(self): # 1. Create Axes axes = Axes( x_range=[0, 5], y_range=[0, 10], axis_config={\"include_tip\": False} ) # 2. Define the function f(x) = 0.5 * x^2 graph = axes.plot(lambda x: 0.5 * x**2, color=BLUE) # 3. Create Riemann Rectangles (dx=0.5 means width is 0.5) rects = axes.get_riemann_rectangles( graph, x_range=[0, 4], dx=0.5, input_sample_type=\"left\" ) # 4. Animation Sequence self.play(Create(axes), Create(graph)) self.play(Write(rects)) self.wait(1) # Optional: Smoothly transform to thinner rectangles (higher precision) new_rects = axes.get_riemann_rectangles(graph, x_range=[0, 4], dx=0.1) self.play(Transform(rects, new_rects)) self.wait(2) By dynamically changing the $dx$ parameter (the width of the rectangles) using Transform, we can visually demonstrate the definition of the integral: as the rectangles get thinner, the “staircase” error vanishes, and the area of the rectangles perfectly matches the area under the smooth curve.\nCitation Riyantoko, P.A. 2025. The Living Equation: Art of Mathematical Animation with Python. Surabaya, Indonesia: UPNVJT Press.\n@book{Manim2025, author = {Prismahardi Aji Riyantoko}, year = {2025}, title = {The Living Equation: Art of Mathematical Animation with Python}, publisher = {UPNVJT Press}, address = {Surabaya, Indonesia}, url = {[-](-)}} ",
+  "wordCount" : "421",
+  "inLanguage": "en",
+  "image":"http://localhost:1313/books/book1/manim.png","datePublished": "2026-01-07T00:00:00Z",
+  "dateModified": "2026-01-07T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Prismahardi Aji Riyantoko"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/books/book1/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prismahardi Aji Riyantoko",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Prismahardi Aji Riyantoko">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Prismahardi Aji Riyantoko</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/papers/" title="Papers">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/books/" title="Books">
+                    <span>Books</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/courses/" title="Courses">
+                    <span>Courses</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/researchs/" title="Researchs">
+                    <span>Researchs</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/data/" title="Data">
+                    <span>Data</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      The Living Equation: Art of Mathematical Animation with Python
+    </h1>
+    <div class="post-meta"><span title='2026-01-07 00:00:00 +0000 UTC'>January 7, 2026</span>&nbsp;&middot;&nbsp;Prismahardi Aji Riyantoko&nbsp;&middot;&nbsp;<a href="https://prismahardiar.github.io/" rel="noopener noreferrer" target="_blank">UPNVJT Press</a>
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h4 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h4>
+<div style="text-align: justify">
+This book bridges the gap between abstract mathematical concepts and visual storytelling using Python. It provides a comprehensive guide to the <strong>Manim</strong> engine, allowing readers to programmatically generate precise and stunning animations.[^1] The text emphasizes not just the "how-to" of coding, but the "why" of visualization, ensuring that every animation serves a pedagogical purpose.[^2] From setting up the environment to visualizing complex Calculus theorems, this book transforms the way educators and students perceive mathematical proofs.
+<hr>
+<h4 id="praise">Praise<a hidden class="anchor" aria-hidden="true" href="#praise">#</a></h4>
+<blockquote>
+<p>“Mathematics is the art of giving the same name to different things.” — Henri Poincaré</p>
+</blockquote>
+<hr>
+<h4 id="view">View<a hidden class="anchor" aria-hidden="true" href="#view">#</a></h4>
+<ul>
+<li><a href="">Chapter 1: Introduction to the World of Manimation</a></li>
+<li><a href="">Chapter 2: Python Fundamentals for Animation</a></li>
+<li><a href="">Chapter 3: Getting Started with Manim</a></li>
+<li><a href="">Chapter 4: Basic Mathematical Animations</a></li>
+<li><a href="">Chapter 5: Fundamental Animation Techniques</a></li>
+<li><a href="">Chapter 6: Mini Project: Calculus Visualization</a></li>
+</ul>
+<hr>
+<h4 id="excerpt-from-chapter-6-mini-project-calculus-visualization">Excerpt from Chapter 6: Mini Project: Calculus Visualization<a hidden class="anchor" aria-hidden="true" href="#excerpt-from-chapter-6-mini-project-calculus-visualization">#</a></h4>
+<p>Calculus often intimidates students due to its reliance on abstract concepts like limits and infinitesimals. However, Manim allows us to make these concepts tangible. In this chapter, we focus on visualizing the <strong>Riemann Sum</strong>, which approximates the area under a curve using rectangles.</p>
+<p>Mathematically, we define the integral as the limit of these sums as the width of the rectangles ($\Delta x$) approaches zero:</p>
+<p>$$
+\int_a^b f(x) , dx = \lim_{n \to \infty} \sum_{i=1}^{n} f(x_i) \Delta x
+$$</p>
+<p>To visualize this, we can use Manim&rsquo;s built-in <code>Axes</code> and <code>get_riemann_rectangles</code> methods. The following code snippet demonstrates how to plot a quadratic function and visualize the area approximation:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#00a">from</span> <span style="color:#0aa;text-decoration:underline">manim</span> <span style="color:#00a">import</span> *
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#00a">class</span> <span style="color:#0a0;text-decoration:underline">RiemannVisualization</span>(Scene):
+</span></span><span style="display:flex;"><span>    <span style="color:#00a">def</span> <span style="color:#0a0">construct</span>(<span style="color:#0aa">self</span>):
+</span></span><span style="display:flex;"><span>        <span style="color:#aaa;font-style:italic"># 1. Create Axes</span>
+</span></span><span style="display:flex;"><span>        axes = Axes(
+</span></span><span style="display:flex;"><span>            x_range=[<span style="color:#099">0</span>, <span style="color:#099">5</span>], 
+</span></span><span style="display:flex;"><span>            y_range=[<span style="color:#099">0</span>, <span style="color:#099">10</span>], 
+</span></span><span style="display:flex;"><span>            axis_config={<span style="color:#a50">&#34;include_tip&#34;</span>: <span style="color:#00a">False</span>}
+</span></span><span style="display:flex;"><span>        )
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#aaa;font-style:italic"># 2. Define the function f(x) = 0.5 * x^2</span>
+</span></span><span style="display:flex;"><span>        graph = axes.plot(<span style="color:#00a">lambda</span> x: <span style="color:#099">0.5</span> * x**<span style="color:#099">2</span>, color=BLUE)
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#aaa;font-style:italic"># 3. Create Riemann Rectangles (dx=0.5 means width is 0.5)</span>
+</span></span><span style="display:flex;"><span>        rects = axes.get_riemann_rectangles(
+</span></span><span style="display:flex;"><span>            graph, 
+</span></span><span style="display:flex;"><span>            x_range=[<span style="color:#099">0</span>, <span style="color:#099">4</span>], 
+</span></span><span style="display:flex;"><span>            dx=<span style="color:#099">0.5</span>, 
+</span></span><span style="display:flex;"><span>            input_sample_type=<span style="color:#a50">&#34;left&#34;</span>
+</span></span><span style="display:flex;"><span>        )
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#aaa;font-style:italic"># 4. Animation Sequence</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#0aa">self</span>.play(Create(axes), Create(graph))
+</span></span><span style="display:flex;"><span>        <span style="color:#0aa">self</span>.play(Write(rects))
+</span></span><span style="display:flex;"><span>        <span style="color:#0aa">self</span>.wait(<span style="color:#099">1</span>)
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#aaa;font-style:italic"># Optional: Smoothly transform to thinner rectangles (higher precision)</span>
+</span></span><span style="display:flex;"><span>        new_rects = axes.get_riemann_rectangles(graph, x_range=[<span style="color:#099">0</span>, <span style="color:#099">4</span>], dx=<span style="color:#099">0.1</span>)
+</span></span><span style="display:flex;"><span>        <span style="color:#0aa">self</span>.play(Transform(rects, new_rects))
+</span></span><span style="display:flex;"><span>        <span style="color:#0aa">self</span>.wait(<span style="color:#099">2</span>)
+</span></span></code></pre></div><p>By dynamically changing the $dx$ parameter (the width of the rectangles) using Transform, we can visually demonstrate the definition of the integral: as the rectangles get thinner, the &ldquo;staircase&rdquo; error vanishes, and the area of the rectangles perfectly matches the area under the smooth curve.</p>
+<hr>
+<h4 id="citation">Citation<a hidden class="anchor" aria-hidden="true" href="#citation">#</a></h4>
+<p>Riyantoko, P.A. 2025. <em>The Living Equation: Art of Mathematical Animation with Python</em>. Surabaya, Indonesia: UPNVJT Press.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span>@book<span style="color:#0aa">{</span>Manim2025,
+</span></span><span style="display:flex;"><span>author = <span style="color:#0aa">{</span>Prismahardi Aji Riyantoko<span style="color:#0aa">}</span>,
+</span></span><span style="display:flex;"><span>year = <span style="color:#0aa">{</span>2025<span style="color:#0aa">}</span>,
+</span></span><span style="display:flex;"><span>title = <span style="color:#0aa">{</span>The Living Equation: Art of Mathematical Animation with Python<span style="color:#0aa">}</span>,
+</span></span><span style="display:flex;"><span>publisher = <span style="color:#0aa">{</span>UPNVJT Press<span style="color:#0aa">}</span>,
+</span></span><span style="display:flex;"><span>address = <span style="color:#0aa">{</span>Surabaya, Indonesia<span style="color:#0aa">}</span>,
+</span></span><span style="display:flex;"><span>url = <span style="color:#0aa">{</span>[-](-)<span style="color:#0aa">}}</span>
+</span></span></code></pre></div></div>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/mathematics/">Mathematics</a></li>
+      <li><a href="http://localhost:1313/tags/python/">Python</a></li>
+      <li><a href="http://localhost:1313/tags/animation/">Animation</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 Prismahardi Aji Riyantoko</span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a>, <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a>, &amp;
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">hugo-website</a>.
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>

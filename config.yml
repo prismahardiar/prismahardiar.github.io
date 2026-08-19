@@ -1,0 +1,127 @@
+baseURL: "https://prismahardiar.github.io/" 
+title: Prismahardi Aji Riyantoko
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        - name: Books
+          url: books/
+          weight: 2 
+        - name: Courses
+          url: courses/
+          weight: 2
+        - name: Researchs
+          url: researchs/
+          weight: 4
+        - name: Data
+          url: data/
+          weight: 5 
+#        - name: Blog
+#          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#          weight: 6
+
+params:
+    description: "This website hosts Prismahardi Aji Riyantoko's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Prismahardi Aji Riyantoko
+    googleAnalyticsID: "G-L5JTQBJKGM"
+    DateFormat: "January 2, 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Prismahardi Aji Riyantoko
+          subtitle: "Mathematics and Data Science Lecturer at UPNVJT"
+          imageUrl: "prisma.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Books
+              url: books/
+            - name: Courses
+              url: courses/
+            - name: Research
+              url: researchs/
+            - name: Data
+              url: data/
+  #          - name: Tags
+  #            url: tags/
+  #          - name: Archive
+  #            url: archive/
+  #          - name: Blog
+  #            url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: CV
+          url: prismahardiar-cv.pdf
+        - name: Email
+          url: mailto:prismahardi.aji.ds@upnjatim.ac.id
+        - name: Zoom
+          url: https://meet.google.com/
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=AU-M4OwAAAAJ&hl=id
+        - name: GitHub
+          url: https://github.com/prismahardiar
+        - name: Substack
+          url: https://prismahardiar.substack.com
+        - name: YouTube
+          url: https://www.youtube.com/@prismahardiar
+        - name: Twitter
+          url: https://x.com/prismahardiar
+#        - name: Bluesky
+#          url: https://bsky.app/profile/pmichaillat.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Prismahardi Aji Riyantoko"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
