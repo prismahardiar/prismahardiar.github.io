@@ -10,7 +10,7 @@ editPost:
     Text: "Information"
 
 ---
-<!--
+
 ---
 
 ##### Download
@@ -18,7 +18,7 @@ editPost:
 + [Paper](information-16-00607.pdf)
 
 ---
--->
+
 
 ##### Abstract
 <div style="text-align: justify">
