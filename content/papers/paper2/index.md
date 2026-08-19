@@ -15,7 +15,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://www.mdpi.com/2227-7390/14/14/2481)
++ [Paper](mathematics-14-02481.pdf)
 
 ---
 
