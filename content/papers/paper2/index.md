@@ -11,7 +11,7 @@ editPost:
 
 ---
 
-<!--
+
 ---
 
 ##### Download
@@ -19,7 +19,7 @@ editPost:
 + [Paper](mathematics-14-02481.pdf)
 
 ---
--->
+
 
 ##### Abstract
 <div style="text-align: justify">
